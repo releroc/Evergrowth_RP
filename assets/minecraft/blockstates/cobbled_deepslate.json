@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "": [
+            { "model": "puzzle_boxes:block/building_blocks/concrete/concrete_1", "weight": 10},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/concrete_2", "weight": 1, "y":0},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/concrete_2", "weight": 1, "y":90},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/concrete_2", "weight": 1, "y":180},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/concrete_2", "weight": 1, "y":-90},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/concrete_2", "weight": 1, "x":90},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/concrete_2", "weight": 1, "x":-90}
+        ]
+    }
+}

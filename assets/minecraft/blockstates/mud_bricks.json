@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+            { "model": "puzzle_boxes:block/building_blocks/concrete/dirty_concrete_1", "weight": 1}
+        ]
+    }
+}

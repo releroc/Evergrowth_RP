@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "facing=east": [
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_1", "y": 90, "weight":10},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_2", "y": 90, "weight":10},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_3", "y": 90, "weight":10},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_4", "y": 90, "weight":10}
+		],
+        "facing=south": [
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_1", "y": 180, "weight":10},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_2", "y": 180, "weight":10},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_3", "y": 180, "weight":10},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_4", "y": 180, "weight":10}
+		],
+        "facing=west": [
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_1", "y": -90, "weight":10},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_2", "y": -90, "weight":10},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_3", "y": -90, "weight":10},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_4", "y": -90, "weight":10}
+		],
+        "facing=north": [
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_1", "y": 0, "weight":10},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_2", "y": 0, "weight":10},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_3", "y": 0, "weight":10},
+			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_4", "y": 0, "weight":10}
+		]
+    }
+}

@@ -1,0 +1,4 @@
+{ 
+"comment": "This is here to fix lighting issues with GUI items", 
+"gui_light": "front" 
+}

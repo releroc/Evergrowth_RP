@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/brown_dye"
+    } ,
+    "overrides": [
+      {"predicate": {"custom_model_data":1}, "model": "puzzle_boxes:block/boxes/rusty_box"},
+      {"predicate": {"custom_model_data":2}, "model": "puzzle_boxes:block/boxes/x"},
+      {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:block/boxes/battery_1_off"},
+      {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:block/boxes/x"},
+      {"predicate": {"custom_model_data":201}, "model": "puzzle_boxes:block/boxes/battery_1_on"},
+      {"predicate": {"custom_model_data":202}, "model": "puzzle_boxes:block/boxes/x"}
+      ]
+  }

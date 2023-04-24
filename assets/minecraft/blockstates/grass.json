@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "puzzle_boxes:block/building_blocks/foliage/grass_1", "weight": 6},
+            { "model": "puzzle_boxes:block/building_blocks/foliage/grass_2", "weight": 3},
+            { "model": "puzzle_boxes:block/building_blocks/foliage/grass_3", "weight": 1}
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/custom/lit",
+	"textures": {
+		"0": "puzzle_boxes:item/buttons/reset_button_pressed_10",
+		"particle": "puzzle_boxes:item/buttons/reset_button_pressed_10"
+	},
+	"elements": [
+		{
+			"from": [-5.5, 0, 16],
+			"to": [21.5, 18, 16],
+			"shade": false,
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"translation": [-36, 7, 0],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"scale": [0, 0, 0]
+		}
+	}
+}
