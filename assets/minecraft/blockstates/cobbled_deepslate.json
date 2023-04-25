@@ -1,13 +1,13 @@
 {
     "variants": {
         "": [
-            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/concrete_1", "weight": 10},
-			{ "model": "puzzle_boxes:block/variations/building_blocks/concrete/concrete_2", "weight": 1, "y":0},
-			{ "model": "puzzle_boxes:block/variations/building_blocks/concrete/concrete_2", "weight": 1, "y":90},
-			{ "model": "puzzle_boxes:block/variations/building_blocks/concrete/concrete_2", "weight": 1, "y":180},
-			{ "model": "puzzle_boxes:block/variations/building_blocks/concrete/concrete_2", "weight": 1, "y":-90},
-			{ "model": "puzzle_boxes:block/variations/building_blocks/concrete/concrete_2", "weight": 1, "x":90},
-			{ "model": "puzzle_boxes:block/variations/building_blocks/concrete/concrete_2", "weight": 1, "x":-90}
+            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/concrete_1", "weight": 20},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/concrete/concrete_2", "weight": 3, "y":0},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/concrete/concrete_2", "weight": 3, "y":90},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/concrete/concrete_2", "weight": 3, "y":180},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/concrete/concrete_2", "weight": 3, "y":-90},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/concrete/concrete_2", "weight": 3, "x":90},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/concrete/concrete_2", "weight": 3, "x":-90}
         ]
     }
 }
