@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "puzzle_boxes:block/variations/piston/piston_1",
-		"particle": "puzzle_boxes:block/variations/piston/piston_1"
+		"0": "puzzle_boxes:block/variations/puzzle_elements/piston/piston_1",
+		"particle": "puzzle_boxes:block/variations/puzzle_elements/piston/piston_1"
 	},
 	"elements": [
 		{
