@@ -1,10 +1,10 @@
 {
     "variants": {
         "": [
-			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_1", "x": -90, "y": 0, "weight":10},
-			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_1", "x": -90, "y": 90, "weight":10},
-			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_1", "x": -90, "y": 180, "weight":10},
-			{ "model": "puzzle_boxes:block/building_blocks/concrete/planks_1", "x": -90, "y": -90, "weight":10}
+			{ "model": "puzzle_boxes:block/variations/building_blocks/misc/planks_1", "x": -90, "y": 0, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/misc/planks_1", "x": -90, "y": 90, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/misc/planks_1", "x": -90, "y": 180, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/misc/planks_1", "x": -90, "y": -90, "weight":10}
 		]
     }
 }

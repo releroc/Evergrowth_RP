@@ -4,23 +4,23 @@
       "layer0": "minecraft:item/leather_horse_armor"
     } ,
     "overrides": [
-      {"predicate": {"custom_model_data":1}, "model": "puzzle_boxes:block/teleporter"},
-      {"predicate": {"custom_model_data":2}, "model": "puzzle_boxes:block/x"},
-      {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:block/pressure_plates/pressure_plate_empty"},
-      {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:block/pressure_plates/pressure_plate_square"},
-      {"predicate": {"custom_model_data":103}, "model": "puzzle_boxes:block/pressure_plates/pressure_plate_circle"},
-      {"predicate": {"custom_model_data":104}, "model": "puzzle_boxes:block/pressure_plates/pressure_plate_triangle"},
-      {"predicate": {"custom_model_data":105}, "model": "puzzle_boxes:block/pressure_plates/pressure_plate_star"},
-      {"predicate": {"custom_model_data":106}, "model": "puzzle_boxes:block/pressure_plates/pressure_plate_plus"},
-      {"predicate": {"custom_model_data":107}, "model": "puzzle_boxes:block/pressure_plates/pressure_plate_diamond"},
-      {"predicate": {"custom_model_data":151}, "model": "puzzle_boxes:block/pressure_plates/plug_1"},
-      {"predicate": {"custom_model_data":201}, "model": "puzzle_boxes:block/pressure_plates/marker_empty"},
-      {"predicate": {"custom_model_data":202}, "model": "puzzle_boxes:block/pressure_plates/marker_square"},
-      {"predicate": {"custom_model_data":203}, "model": "puzzle_boxes:block/pressure_plates/marker_circle"},
-      {"predicate": {"custom_model_data":204}, "model": "puzzle_boxes:block/pressure_plates/marker_triangle"},
-      {"predicate": {"custom_model_data":205}, "model": "puzzle_boxes:block/pressure_plates/marker_star"},
-      {"predicate": {"custom_model_data":206}, "model": "puzzle_boxes:block/pressure_plates/marker_plus"},
-      {"predicate": {"custom_model_data":207}, "model": "puzzle_boxes:block/pressure_plates/marker_diamond"}
+      {"predicate": {"custom_model_data":1}, "model": "puzzle_boxes:block/variations/puzzle_elements/teleporter"},
+      {"predicate": {"custom_model_data":2}, "model": "puzzle_boxes:block/variations/puzzle_elements/x"},
+      {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_empty"},
+      {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_square"},
+      {"predicate": {"custom_model_data":103}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_circle"},
+      {"predicate": {"custom_model_data":104}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_triangle"},
+      {"predicate": {"custom_model_data":105}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_star"},
+      {"predicate": {"custom_model_data":106}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_plus"},
+      {"predicate": {"custom_model_data":107}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_diamond"},
+      {"predicate": {"custom_model_data":151}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/plug_1"},
+      {"predicate": {"custom_model_data":201}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_empty"},
+      {"predicate": {"custom_model_data":202}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_square"},
+      {"predicate": {"custom_model_data":203}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_circle"},
+      {"predicate": {"custom_model_data":204}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_triangle"},
+      {"predicate": {"custom_model_data":205}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_star"},
+      {"predicate": {"custom_model_data":206}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_plus"},
+      {"predicate": {"custom_model_data":207}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_diamond"}
       
       ]
   }

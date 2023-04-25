@@ -1,18 +1,18 @@
 {
   "variants": {
     "facing=east,half=bottom,open=false": {
-      "model": "puzzle_boxes:block/trapdoors/iron_grate"
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/iron_grate"
     },
     "facing=east,half=bottom,open=true": {
       "model": "minecraft:block/iron_trapdoor_open",
       "y": 90
     },
     "facing=east,half=top,open=false": {
-      "model": "puzzle_boxes:block/trapdoors/iron_grate",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/iron_grate",
       "x": 180
     },
     "facing=east,half=top,open=true": {
-      "model": "puzzle_boxes:block/trapdoors/iron_grate",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/iron_grate",
       "x": 90,
       "y": 90
     },
@@ -26,7 +26,7 @@
       "model": "minecraft:block/iron_trapdoor_top"
     },
     "facing=north,half=top,open=true": {
-      "model": "puzzle_boxes:block/trapdoors/iron_grate",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/iron_grate",
       "x": 90,
       "y": 0
     },
@@ -41,7 +41,7 @@
       "model": "minecraft:block/iron_trapdoor_top"
     },
     "facing=south,half=top,open=true": {
-      "model": "puzzle_boxes:block/trapdoors/iron_grate",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/iron_grate",
       "x": 90,
       "y": 180
     },
@@ -56,7 +56,7 @@
       "model": "minecraft:block/iron_trapdoor_top"
     },
     "facing=west,half=top,open=true": {
-      "model": "puzzle_boxes:block/trapdoors/iron_grate",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/iron_grate",
       "x": 90,
       "y": -90
     }

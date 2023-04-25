@@ -1,19 +1,19 @@
 {
   "variants": {
     "facing=east,half=bottom,open=false,powered=false": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_1",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_1",
       "y": -90
     },
     "facing=east,half=bottom,open=false,powered=true": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_2",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_2",
       "y": -90
     },
     "facing=east,half=bottom,open=true,powered=false": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_1",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_1",
       "y": -90
     },
     "facing=east,half=bottom,open=true,powered=true": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_2",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_2",
       "y": -90
     },
     "facing=east,half=top,open=false": {
@@ -24,47 +24,47 @@
       "y": 90
     },
     "facing=north,half=bottom,open=false,powered=false": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_1",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_1",
       "y": 180
     },
     "facing=north,half=bottom,open=false,powered=true": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_2",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_2",
       "y": 180
     },
     "facing=north,half=bottom,open=true": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_1",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_1",
       "y": 180
     },
     "facing=north,half=bottom,open=true,powered=true": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_2",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_2",
       "y": 180
     },
     "facing=north,half=top,open=false,powered=false": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_elevator_1"
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_1"
     },
     "facing=north,half=top,open=false,powered=true": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_elevator_2"
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_2"
     },
     "facing=north,half=top,open=true,powered=false": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_elevator_1"
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_1"
     },
     "facing=north,half=top,open=true,powered=true": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_elevator_2"
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_2"
     },
     "facing=south,half=bottom,open=false,powered=false": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_1",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_1",
       "y": 0
     },
     "facing=south,half=bottom,open=false,powered=true": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_2",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_2",
       "y": 0
     },
     "facing=south,half=bottom,open=true,powered=false": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_1",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_1",
       "y": 0
     },
     "facing=south,half=bottom,open=true,powered=true": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_2",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_2",
       "y": 0
     },
     "facing=south,half=top,open=false": {
@@ -75,19 +75,19 @@
       "y": 180
     },
     "facing=west,half=bottom,open=false,powered=false": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_1",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_1",
       "y": 90
     },
     "facing=west,half=bottom,open=false,powered=true": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_2",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_2",
       "y": 90
     },
     "facing=west,half=bottom,open=true,powered=false": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_1",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_1",
       "y": 90
     },
     "facing=west,half=bottom,open=true,powered=true": {
-      "model": "puzzle_boxes:block/conveyors/conveyor_middle_2",
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_2",
       "y": 90
     },
     "facing=west,half=top,open=false": {

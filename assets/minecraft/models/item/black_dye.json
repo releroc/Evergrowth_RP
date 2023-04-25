@@ -4,8 +4,8 @@
       "layer0": "minecraft:item/black_dye"
     } ,
     "overrides": [
-      {"predicate": {"custom_model_data":1}, "model": "puzzle_boxes:block/pistons/piston_1"},
-      {"predicate": {"custom_model_data":2}, "model": "puzzle_boxes:block/pistons/piston_2"},
-      {"predicate": {"custom_model_data":3}, "model": "puzzle_boxes:block/pistons/piston_3"}
+      {"predicate": {"custom_model_data":1}, "model": "puzzle_boxes:block/variations/puzzle_elements/piston/piston_1"},
+      {"predicate": {"custom_model_data":2}, "model": "puzzle_boxes:block/variations/puzzle_elements/piston/piston_2"},
+      {"predicate": {"custom_model_data":3}, "model": "puzzle_boxes:block/variations/puzzle_elements/piston/piston_3"}
       ]
   }

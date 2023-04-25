@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "puzzle_boxes:block/ladder",
-		"particle": "puzzle_boxes:block/ladder"
+		"0": "puzzle_boxes:block/variations/building_blocks/misc/ladder",
+		"particle": "puzzle_boxes:block/variations/building_blocks/misc/ladder"
 	},
 	"elements": [
 		{
