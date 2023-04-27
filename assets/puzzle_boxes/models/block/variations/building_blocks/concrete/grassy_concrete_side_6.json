@@ -24,33 +24,33 @@
 			"from": [2, 16, 3],
 			"to": [6, 18, 7],
 			"faces": {
-				"north": {"uv": [0, 4, 4, 6], "texture": "#3"},
-				"east": {"uv": [0, 4, 4, 6], "texture": "#3"},
-				"south": {"uv": [0, 4, 4, 6], "texture": "#3"},
-				"west": {"uv": [0, 4, 4, 6], "texture": "#3"},
-				"up": {"uv": [0, 0, 4, 4], "texture": "#3"}
+				"north": {"uv": [0, 4, 4, 6], "texture": "#3", "cullface": "up"},
+				"east": {"uv": [0, 4, 4, 6], "texture": "#3", "cullface": "up"},
+				"south": {"uv": [0, 4, 4, 6], "texture": "#3", "cullface": "up"},
+				"west": {"uv": [0, 4, 4, 6], "texture": "#3", "cullface": "up"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#3", "cullface": "up"}
 			}
 		},
 		{
 			"from": [7, 16, 5],
 			"to": [10, 17, 8],
 			"faces": {
-				"north": {"uv": [5, 3, 8, 4], "texture": "#3"},
-				"east": {"uv": [5, 3, 8, 4], "texture": "#3"},
-				"south": {"uv": [5, 3, 8, 4], "texture": "#3"},
-				"west": {"uv": [5, 3, 8, 4], "texture": "#3"},
-				"up": {"uv": [5, 0, 8, 3], "texture": "#3"}
+				"north": {"uv": [5, 3, 8, 4], "texture": "#3", "cullface": "up"},
+				"east": {"uv": [5, 3, 8, 4], "texture": "#3", "cullface": "up"},
+				"south": {"uv": [5, 3, 8, 4], "texture": "#3", "cullface": "up"},
+				"west": {"uv": [5, 3, 8, 4], "texture": "#3", "cullface": "up"},
+				"up": {"uv": [5, 0, 8, 3], "texture": "#3", "cullface": "up"}
 			}
 		},
 		{
 			"from": [4, 16, 9],
 			"to": [6, 17, 11],
 			"faces": {
-				"north": {"uv": [9, 2, 11, 3], "texture": "#3"},
-				"east": {"uv": [9, 2, 11, 3], "texture": "#3"},
-				"south": {"uv": [9, 2, 11, 3], "texture": "#3"},
-				"west": {"uv": [9, 2, 11, 3], "texture": "#3"},
-				"up": {"uv": [9, 0, 11, 2], "texture": "#3"}
+				"north": {"uv": [9, 2, 11, 3], "texture": "#3", "cullface": "up"},
+				"east": {"uv": [9, 2, 11, 3], "texture": "#3", "cullface": "up"},
+				"south": {"uv": [9, 2, 11, 3], "texture": "#3", "cullface": "up"},
+				"west": {"uv": [9, 2, 11, 3], "texture": "#3", "cullface": "up"},
+				"up": {"uv": [9, 0, 11, 2], "texture": "#3", "cullface": "up"}
 			}
 		}
 	],

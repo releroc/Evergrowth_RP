@@ -5,7 +5,8 @@
     } ,
     "overrides": [
       {"predicate": {"custom_model_data":1}, "model": "puzzle_boxes:block/variations/puzzle_elements/box/rusty_box_1"},
-      {"predicate": {"custom_model_data":2}, "model": "puzzle_boxes:block/variations/puzzle_elements/box/x"},
+      {"predicate": {"custom_model_data":2}, "model": "puzzle_boxes:block/variations/puzzle_elements/box/rusty_box_2"},
+      {"predicate": {"custom_model_data":3}, "model": "puzzle_boxes:block/variations/puzzle_elements/box/x"},
       {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_1_off"},
       {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:block/variations/puzzle_elements/battery/x"},
       {"predicate": {"custom_model_data":201}, "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_1_on"},
