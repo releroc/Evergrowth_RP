@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/gray_dye"
+    } ,
+    "overrides": [
+      {"predicate": {"custom_model_data":1}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/placeholder_door_1"},
+      {"predicate": {"custom_model_data":2}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"},
+      {"predicate": {"custom_model_data":3}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"}
+      ]
+  }
