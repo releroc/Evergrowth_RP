@@ -4,8 +4,14 @@
       "layer0": "minecraft:item/gray_dye"
     } ,
     "overrides": [
-      {"predicate": {"custom_model_data":1}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/placeholder_door_1"},
-      {"predicate": {"custom_model_data":2}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"},
-      {"predicate": {"custom_model_data":3}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"}
+      {"predicate": {"custom_model_data":301}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/small_horizontal_placeholder_door_1"},
+      {"predicate": {"custom_model_data":302}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"},
+      {"predicate": {"custom_model_data":401}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/small_vertical_placeholder_door_1"},
+      {"predicate": {"custom_model_data":402}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"},
+
+      {"predicate": {"custom_model_data":301}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_placeholder_door_1"},
+      {"predicate": {"custom_model_data":302}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"},
+      {"predicate": {"custom_model_data":401}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_vertical_placeholder_door_1"},
+      {"predicate": {"custom_model_data":402}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"}
       ]
   }
