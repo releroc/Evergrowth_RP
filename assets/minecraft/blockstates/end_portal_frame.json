@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "facing=east": [
+			{ "model": "puzzle_boxes:block/variations/building_blocks/concrete/large_concrete_slab_1", "y": 90, "weight":10}
+		],
+        "facing=south": [
+			{ "model": "x", "y": 180, "weight":10}
+		],
+        "facing=west": [
+			{ "model": "x", "y": -90, "weight":10}
+		],
+        "facing=north": [
+			{ "model": "x", "y": 0, "weight":10}
+		]
+    }
+}
