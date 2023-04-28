@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "puzzle_boxes:block/variations/puzzle_elements/door/small_horizontal_placeholder_door_1"
+	},
+	"elements": [
+		{
+			"from": [7.5, 2, 4],
+			"to": [8.5, 14, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 8, 6]},
+			"faces": {
+				"north": {"uv": [10, 2, 10.5, 8], "texture": "#0"},
+				"east": {"uv": [4, 2, 6, 8], "texture": "#0"},
+				"south": {"uv": [12, 2, 12.5, 8], "texture": "#0"},
+				"west": {"uv": [2, 2, 4, 8], "texture": "#0"},
+				"up": {"uv": [2, 12.5, 4, 12], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [4, 14.5, 2, 14], "rotation": 90, "texture": "#0"}
+			}
+		}
+	]
+}
