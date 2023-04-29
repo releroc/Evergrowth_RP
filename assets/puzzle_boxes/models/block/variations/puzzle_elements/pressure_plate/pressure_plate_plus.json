@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "puzzle_boxes:block/variations/pressure_plates/preasure_plate_plus",
-		"particle": "puzzle_boxes:block/variations/pressure_plates/preasure_plate_plus"
+		"0": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/preasure_plate_plus",
+		"particle": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/preasure_plate_plus"
 	},
 	"elements": [
 		{
