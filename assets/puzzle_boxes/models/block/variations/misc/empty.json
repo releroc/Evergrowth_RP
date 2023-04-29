@@ -1,3 +1,6 @@
 {
-	"credit": "Made with Blockbench"
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "puzzle_boxes:block/variations/building_blocks/misc/empty"
+	}
 }
