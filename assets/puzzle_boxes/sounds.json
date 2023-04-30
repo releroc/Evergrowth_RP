@@ -1,0 +1,23 @@
+
+{
+  "background_garden_1": {
+    "sounds": [
+      "puzzle_boxes:background_garden_1"],
+	  "subtitle": ""},
+
+  "music_garden_reset": {
+    "sounds": [
+      "puzzle_boxes:music_garden_reset"],
+	  "subtitle": ""},
+
+  "music_garden_undo": {
+    "sounds": [
+      "puzzle_boxes:music_garden_undo"],
+	  "subtitle": ""},
+
+  "music_garden_view": {
+    "sounds": [
+      "puzzle_boxes:music_garden_view"],
+	  "subtitle": ""}
+}
+
