@@ -13,7 +13,7 @@ jobs:
       uses: vimtor/action-zip@v1
       with:
         files: assets/ pack.mcmeta pack.png
-        dest: result.zip
+        dest: Puzzle_Boxes_RP-${{ steps.previoustag.outputs.tag }}.zip
         recursive: true
     - name: Bump version and push tag
       uses: anothrNick/github-tag-action@master
