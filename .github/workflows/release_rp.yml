@@ -27,12 +27,12 @@ jobs:
         uses: thedoctor0/zip-release@0.7.1
         with:
           type: "zip"
-          filename: "release-${{ github.sha }}.zip"
+          filename: "release.zip"
           exclusions: "*.git*"
       - name: Upload Release
         uses: ncipollo/release-action@v1.12.0
         with:
-          artifacts: "release-${{ github.sha }}.zip"
+          artifacts: "release.zip"
           token: ${{ secrets.GITHUB_TOKEN }}
 
       
