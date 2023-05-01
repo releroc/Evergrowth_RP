@@ -9,12 +9,6 @@ jobs:
     steps:
     - name: Checkout Main Branch
       uses: actions/checkout@v2
-    - name: Zip Folder
-      uses: vimtor/action-zip@v1
-      with:
-        files: assets/ pack.mcmeta pack.png
-        dest: Puzzle_Boxes_RP-${{ steps.previoustag.outputs.tag }}.zip
-        recursive: true
     - name: Bump version and push tag
       uses: anothrNick/github-tag-action@master
       env:
@@ -22,7 +16,13 @@ jobs:
         REPO_OWNER: kyrkis
     - name: Get Previous tag
       id: previoustag
-      uses: "WyriHaximus/github-action-get-previous-tag@v1"    
+      uses: "WyriHaximus/github-action-get-previous-tag@v1"
+    - name: Zip Folder
+      uses: vimtor/action-zip@v1v
+      with:
+        files: assets/ pack.mcmeta pack.png
+        dest: Puzzle_Boxes_RP-${{ steps.previoustag.outputs.tag }}.zip
+        recursive: true  
     - name: Create Release
       uses: ncipollo/release-action@v1
       with: 
