@@ -18,9 +18,13 @@ jobs:
       uses: anothrNick/github-tag-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        REPO_OWNER: kyrkis   
+        REPO_OWNER: kyrkis
+    - name: Get Previous tag
+      id: previoustag
+      uses: "WyriHaximus/github-action-get-previous-tag@v1"    
     - name: Create Release
       uses: ncipollo/release-action@v1
       with: 
        artifacts: "result.zip"
+       tag: ${{ steps.previoustag.outputs.tag }}
     
