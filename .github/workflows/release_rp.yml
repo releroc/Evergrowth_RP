@@ -20,7 +20,7 @@ jobs:
     - name: Zip Folder
       uses: vimtor/action-zip@v1
       with:
-        files: assets/ pack.mcmeta pack.png
+        files: assets pack.mcmeta pack.png
         dest: Puzzle_Boxes_RP-${{ steps.previoustag.outputs.tag }}.zip
         recursive: true  
     - name: Create Release
