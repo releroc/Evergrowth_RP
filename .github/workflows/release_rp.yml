@@ -14,6 +14,11 @@ jobs:
       with:
         files: assets pack.mcmeta pack.png
         dest: result.zip
+    - name: Bump version and push tag
+      uses: anothrNick/github-tag-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPO_OWNER: kyrkis   
     - name: Create Release
       uses: ncipollo/release-action@v1
       with: 
