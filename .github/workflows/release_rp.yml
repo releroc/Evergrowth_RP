@@ -28,5 +28,11 @@ jobs:
         with:
           type: "zip"
           filename: "release-${{ github.sha }}.zip"
+          exclusions: "*.git*"
+      - name: Upload Release
+        uses: ncipollo/release-action@v1.12.0
+        with:
+          artifacts: "release-${{ github.sha }}.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       
