@@ -18,7 +18,7 @@ jobs:
       id: previoustag
       uses: "WyriHaximus/github-action-get-previous-tag@v1"
     - name: Zip Folder
-      uses: vimtor/action-zip@v1v
+      uses: vimtor/action-zip@v1
       with:
         files: assets/ pack.mcmeta pack.png
         dest: Puzzle_Boxes_RP-${{ steps.previoustag.outputs.tag }}.zip
