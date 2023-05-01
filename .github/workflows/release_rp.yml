@@ -12,8 +12,9 @@ jobs:
     - name: Zip Folder
       uses: vimtor/action-zip@v1
       with:
-        files: assets pack.mcmeta pack.png
+        files: assets/ pack.mcmeta pack.png
         dest: result.zip
+        recursive: true
     - name: Bump version and push tag
       uses: anothrNick/github-tag-action@master
       env:
@@ -25,6 +26,6 @@ jobs:
     - name: Create Release
       uses: ncipollo/release-action@v1
       with: 
-       artifacts: "result.zip"
+       artifacts: "Puzzle_Boxes_RP-${{ steps.previoustag.outputs.tag }}.zip"
        tag: ${{ steps.previoustag.outputs.tag }}
     
