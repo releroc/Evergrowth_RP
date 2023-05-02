@@ -10,6 +10,7 @@
       {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:item/push_indicators/stand_pushable"},
       {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:item/push_indicators/sneak_pushable"},
       {"predicate": {"custom_model_data":103}, "model": "puzzle_boxes:item/push_indicators/stand_nonpushable"},
-      {"predicate": {"custom_model_data":104}, "model": "puzzle_boxes:item/push_indicators/sneak_nonpushable"}
+      {"predicate": {"custom_model_data":104}, "model": "puzzle_boxes:item/push_indicators/sneak_nonpushable"},
+      {"predicate": {"custom_model_data":105}, "model": "puzzle_boxes:item/push_indicators/invalid_time"}
       ]
   }
