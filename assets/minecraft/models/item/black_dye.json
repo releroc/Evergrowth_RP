@@ -8,8 +8,8 @@
       {"predicate": {"custom_model_data":2}, "model": "puzzle_boxes:block/variations/puzzle_elements/piston/piston_2"},
       {"predicate": {"custom_model_data":3}, "model": "puzzle_boxes:block/variations/puzzle_elements/piston/piston_3"},
       {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:item/push_indicators/stand_pushable"},
-      {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:item/push_indicators/sneak_pushable"},
-      {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:item/push_indicators/stand_nonpushable"},
-      {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:item/push_indicators/sneak_nonpushable"}
+      {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:item/push_indicators/sneak_pushable"},
+      {"predicate": {"custom_model_data":103}, "model": "puzzle_boxes:item/push_indicators/stand_nonpushable"},
+      {"predicate": {"custom_model_data":104}, "model": "puzzle_boxes:item/push_indicators/sneak_nonpushable"}
       ]
   }
