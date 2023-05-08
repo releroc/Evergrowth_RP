@@ -19,6 +19,11 @@
     "sounds": [
       "puzzle_boxes:music_garden_undo"],
 	  "subtitle": ""},
+  
+  "effect_undo": {
+    "sounds": [
+    "puzzle_boxes:effect_undo"],
+  "subtitle": "Toes sucked"},
 
   "music_garden_view": {
     "sounds": [
