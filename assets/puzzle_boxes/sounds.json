@@ -5,6 +5,11 @@
       "puzzle_boxes:background_garden_1"],
 	  "subtitle": ""},
 
+  "effect_door_open": {
+     "sounds": [
+     "puzzle_boxes:effect_door_open"],
+    "subtitle": ""},
+
   "music_garden_reset": {
     "sounds": [
       "puzzle_boxes:music_garden_reset"],
