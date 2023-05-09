@@ -23,7 +23,12 @@
   "effect_undo": {
     "sounds": [
     "puzzle_boxes:effect_undo"],
-  "subtitle": "Toes sucked"},
+  "subtitle": "Move Reversed"},
+
+  "effect_box_lift": {
+    "sounds": [
+    "puzzle_boxes:effect_box_lift"],
+  "subtitle": "Box moved up"},
 
   "music_garden_view": {
     "sounds": [
