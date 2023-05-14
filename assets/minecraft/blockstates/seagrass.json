@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/seagrass_1", "weight": 10},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/seagrass_2", "weight": 10},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/seagrass_3", "weight": 10},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/seagrass_4", "weight": 10},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/seagrass_5", "weight": 10},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/seagrass_6", "weight": 10},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/seagrass_7", "weight": 10},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/seagrass_8", "weight": 10}
+        ]
+    }
+}
