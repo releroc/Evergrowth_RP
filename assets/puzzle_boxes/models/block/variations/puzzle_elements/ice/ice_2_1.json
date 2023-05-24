@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "puzzle_boxes:block/variations/puzzle elements/ice/ice1_1",
-		"particle": "puzzle_boxes:block/variations/puzzle elements/ice/ice1_1"
+		"0": "puzzle_boxes:block/variations/puzzle_elements/ice/ice_2_1",
+		"particle": "puzzle_boxes:block/variations/puzzle_elements/ice/ice_2_1"
 	},
 	"elements": [
 		{
