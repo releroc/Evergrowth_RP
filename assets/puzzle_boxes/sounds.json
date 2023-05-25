@@ -27,7 +27,11 @@
 
   "effect_box_lift": {
     "sounds": [
-    "puzzle_boxes:effect_box_lift"],
+    "puzzle_boxes:effect_box_lift",
+    "puzzle_boxes:effect_box_lift_alt",
+    "puzzle_boxes:effect_box_lift_alt_2",
+    "puzzle_boxes:effect_box_lift_alt_4",
+    "puzzle_boxes:effect_box_lift_alt_5"],
   "subtitle": "Box moved up"},
 
   "music_garden_view": {
