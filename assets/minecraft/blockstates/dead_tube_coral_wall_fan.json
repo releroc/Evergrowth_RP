@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=east": [
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/yellow_vines_1", "y": 90, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/yellow_vines_2", "y": 90, "weight":10}
+		],
+        "facing=south": [
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/yellow_vines_1", "y": 180, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/yellow_vines_2", "y": 180, "weight":10}
+		],
+        "facing=west": [
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/yellow_vines_1", "y": 270, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/yellow_vines_2", "y": 270, "weight":10}
+		],
+        "facing=north": [
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/yellow_vines_1", "y": 0, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/yellow_vines_2", "y": 0, "weight":10}
+		]
+    }
+}
