@@ -1,76 +1,76 @@
 {
   "variants": {
     "facing=east,half=bottom,open=false": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "y": -90
     },
     "facing=east,half=bottom,open=true": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "y": -90
     },
     "facing=east,half=top,open=false": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "y": -90,
       "x": -90
     },
     "facing=east,half=top,open=true": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "y": -90,
       "x": -90
     },
     "facing=north,half=bottom,open=false": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "x": 0
     },
     "facing=north,half=bottom,open=true": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "x": 0
     },
     "facing=north,half=top,open=false": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "x": 90,
       "y": 0
     },
     "facing=north,half=top,open=true": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "x": 90,
       "y": 0
     },
     "facing=south,half=bottom,open=false": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "x": 90,
       "y": 180
     },
     "facing=south,half=bottom,open=true": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "x": 90,
       "y": 180
     },
     "facing=south,half=top,open=false": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "x": 180
     },
     "facing=south,half=top,open=true": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "x": 180
     },
     "facing=west,half=bottom,open=false": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "x": 90,
       "y": -90
     },
     "facing=west,half=bottom,open=true": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "x": 90,
       "y": -90
     },
     "facing=west,half=top,open=false": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "x": 180,
       "y": -90
     },
     "facing=west,half=top,open=true": {
-      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/placeholder_trapdoor",
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/brick_trapdoor_1",
       "x": 180,
       "y": -90
     }

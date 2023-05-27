@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "puzzle_boxes:block/variations/building_blocks/bricks/wet_bricks_top_1"
+    },
+    "facing=north": {
+      "model": "puzzle_boxes:block/variations/building_blocks/bricks/wet_bricks_bottom_1"
+    },
+    "facing=west": [
+      { "model": "puzzle_boxes:block/variations/building_blocks/bricks/grassy_bricks_1", "weight": 100},
+      { "model": "puzzle_boxes:block/variations/building_blocks/bricks/grassy_bricks_2", "weight": 100}
+    ],
+    "facing=south": {
+      "model": "puzzle_boxes:block/variations/building_blocks/bricks/x"
+  }
+}
+}
