@@ -10,13 +10,13 @@
     },
     "facing=east,half=top,open=false": {
       "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/concrete_trapdoor_1",
-      "y": -90,
-      "x": -90
+      "x": 90,
+      "y": 90
     },
     "facing=east,half=top,open=true": {
       "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/concrete_trapdoor_1",
-      "y": -90,
-      "x": -90
+      "x": 90,
+      "y": 90
     },
     "facing=north,half=bottom,open=false": {
       "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/concrete_trapdoor_1",
