@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "puzzle_boxes:block/variations/puzzle_elements/magnet/magnet_beam_pull_middle_1",
+		"1": "puzzle_boxes:block/variations/puzzle_elements/magnet/magnet_beam_pull_end_1",
 		"particle": "puzzle_boxes:block/variations/puzzle_elements/magnet/magnet_beam_pull_middle_1"
 	},
 	"elements": [
@@ -39,6 +40,14 @@
 			"faces": {
 				"up": {"uv": [0, 0, 16, 3], "rotation": 270, "texture": "#0"},
 				"down": {"uv": [16, 0, 0, 3], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 15.9],
+			"to": [16, 16, 15.9],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"}
 			}
 		}
 	]

@@ -15,6 +15,10 @@
       {"predicate": {"custom_model_data":105}, "model": "puzzle_boxes:item/push_indicators/invalid_time"},
 
       {"predicate": {"custom_model_data":201}, "model": "puzzle_boxes:block/variations/puzzle_elements/magnet/magnet_beam_push_middle_1"},
-      {"predicate": {"custom_model_data":202}, "model": "puzzle_boxes:block/variations/puzzle_elements/magnet/magnet_beam_pull_middle_1"}
+      {"predicate": {"custom_model_data":202}, "model": "puzzle_boxes:block/variations/puzzle_elements/magnet/magnet_beam_push_end_1"},
+      {"predicate": {"custom_model_data":203}, "model": "puzzle_boxes:block/variations/puzzle_elements/magnet/magnet_beam_push_cancel_1"},
+      {"predicate": {"custom_model_data":204}, "model": "puzzle_boxes:block/variations/puzzle_elements/magnet/magnet_beam_pull_middle_1"},
+      {"predicate": {"custom_model_data":205}, "model": "puzzle_boxes:block/variations/puzzle_elements/magnet/magnet_beam_pull_end_1"},
+      {"predicate": {"custom_model_data":206}, "model": "puzzle_boxes:block/variations/puzzle_elements/magnet/magnet_beam_pull_cancel_1"}
       ]
   }
