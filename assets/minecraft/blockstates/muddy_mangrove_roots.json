@@ -1,9 +1,7 @@
 {
     "variants": {
       "axis=x": {
-        "model": "minecraft:block/muddy_mangrove_roots",
-        "x": 90,
-        "y": 90
+        "model": "puzzle_boxes:block/variations/building_blocks/concrete/snowy_soil_1"
       },
       "axis=y": [
       { "model": "puzzle_boxes:block/variations/building_blocks/concrete/muddy_soil_1", "weight": 100},
