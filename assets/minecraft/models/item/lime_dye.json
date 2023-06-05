@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/lime_dye"
+    } ,
+    "overrides": [
+      {"predicate": {"custom_model_data":1 }, "model": "puzzle_boxes:item/skybox/skybox"},
+      {"predicate": {"custom_model_data":2 }, "model": "puzzle_boxes:item/skybox/skybox_test_3"},
+      {"predicate": {"custom_model_data":3 }, "model": "puzzle_boxes:item/skybox/skybox_test_4"}
+      ]
+  }
