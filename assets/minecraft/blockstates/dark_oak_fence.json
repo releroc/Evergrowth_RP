@@ -1,0 +1,64 @@
+
+{
+	"multipart": [
+	  {
+		"apply": [
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_0000", "y": 0, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_1000", "y": 0, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_1000", "y": 90, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_1000", "y": 180, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_1000", "y": -90, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_1010", "y": 0, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_1010", "y": 90, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_1100", "y": 0, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_1100", "y": 90, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_1100", "y": 180, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_1100", "y": -90, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_1110", "y": 0, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_1110", "y": 90, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_1110", "y": 180, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_1110", "y": -90, "weight":10},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/foliage/tree_branch_1111", "y": 0, "weight":10}
+		]
+	  },
+	  {
+		"apply": {
+		  "model": "minecraft:block/dark_oak_fence_side",
+		  "uvlock": true
+		},
+		"when": {
+		  "north": "true"
+		}
+	  },
+	  {
+		"apply": {
+		  "model": "minecraft:block/dark_oak_fence_side",
+		  "uvlock": true,
+		  "y": 90
+		},
+		"when": {
+		  "east": "true"
+		}
+	  },
+	  {
+		"apply": {
+		  "model": "minecraft:block/dark_oak_fence_side",
+		  "uvlock": true,
+		  "y": 180
+		},
+		"when": {
+		  "south": "true"
+		}
+	  },
+	  {
+		"apply": {
+		  "model": "minecraft:block/dark_oak_fence_side",
+		  "uvlock": true,
+		  "y": 270
+		},
+		"when": {
+		  "west": "true"
+		}
+	  }
+	]
+  }

@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "": [
+            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/grassy_concrete_11", "weight": 100},
+
+            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/grassy_concrete_12", "y": 0 ,"weight": 20},
+            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/grassy_concrete_12", "y": 90,"weight": 20},
+            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/grassy_concrete_12", "y":180,"weight": 20},
+            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/grassy_concrete_12", "y":-90,"weight": 20},
+
+            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/grassy_concrete_13", "y": 0 ,"weight": 10},
+            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/grassy_concrete_13", "y": 90,"weight": 10},
+            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/grassy_concrete_13", "y":180,"weight": 10},
+            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/grassy_concrete_13", "y":-90,"weight": 10}
+        ]
+    }
+}
