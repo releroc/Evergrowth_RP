@@ -36,7 +36,9 @@
       {"predicate": {"custom_model_data":304}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_triangle"},
       {"predicate": {"custom_model_data":305}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_star"},
       {"predicate": {"custom_model_data":306}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_plus"},
-      {"predicate": {"custom_model_data":307}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_diamond"}
+      {"predicate": {"custom_model_data":307}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_diamond"},
+
+      {"predicate": {"custom_model_data":401}, "model": "puzzle_boxes:block/variations/misc/empty"}
       
       ]
   }
