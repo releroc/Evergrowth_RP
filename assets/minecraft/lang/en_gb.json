@@ -1,6 +1,10 @@
 {
-    "language.name": "English",
-    "language.region": "Great Britain",
-    "language.code": "en_gb",
-    "container.crafting": ""
+  "container.crafting": "",
+  "effect.minecraft.jump_boost": "",
+  "effect.minecraft.invisibility": "",
+  "effect.minecraft.hunger": "",
+  "effect.minecraft.saturation": "",
+  "effect.minecraft.glowing": "",
+  "effect.minecraft.blindness": "",
+  "effect.minecraft.slowness": ""
 }
