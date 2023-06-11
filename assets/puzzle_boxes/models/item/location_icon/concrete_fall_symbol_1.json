@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "puzzle_boxes:item/location_icon/concrete_fall_symbol_1"
+  }
+}
