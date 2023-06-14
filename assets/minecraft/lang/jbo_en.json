@@ -6,5 +6,9 @@
   "effect.minecraft.saturation": "",
   "effect.minecraft.glowing": "",
   "effect.minecraft.blindness": "",
-  "effect.minecraft.slowness": ""
+  "effect.minecraft.slowness": "",
+  "gui.advancements": "",
+  "chat.type.advancement.challenge": "%s has completed every puzzle and received %s",
+  "chat.type.advancement.goal": "%s discovered %s",
+  "chat.type.advancement.task": "%s discovered %s"
 }
