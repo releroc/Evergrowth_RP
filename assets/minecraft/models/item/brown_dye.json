@@ -22,8 +22,14 @@
       {"predicate": {"custom_model_data":53}, "model": "puzzle_boxes:block/variations/puzzle_elements/box/bright_metal_box_1"},
       {"predicate": {"custom_model_data":54}, "model": "puzzle_boxes:block/variations/puzzle_elements/box/x"},
       {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_1_off"},
-      {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:block/variations/puzzle_elements/battery/x"},
+      {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_2_off"},
+      {"predicate": {"custom_model_data":103}, "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_3_off"},
+      {"predicate": {"custom_model_data":104}, "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_4_off"},
+      {"predicate": {"custom_model_data":105}, "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_5_off"},
       {"predicate": {"custom_model_data":201}, "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_1_on"},
-      {"predicate": {"custom_model_data":202}, "model": "puzzle_boxes:block/variations/puzzle_elements/battery/x"}
+      {"predicate": {"custom_model_data":202}, "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_2_on"},
+      {"predicate": {"custom_model_data":203}, "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_3_on"},
+      {"predicate": {"custom_model_data":204}, "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_4_on"},
+      {"predicate": {"custom_model_data":205}, "model": "puzzle_boxes:block/variations/puzzle_elements/battery/battery_5_on"}
       ]
   }
