@@ -10,7 +10,7 @@
       {"predicate": {"custom_model_data":4  }, "model": "puzzle_boxes:item/skybox/skybox_test_4"},
       {"predicate": {"custom_model_data":5  }, "model": "puzzle_boxes:item/skybox/skybox_test_5"},
       {"predicate": {"custom_model_data":6  }, "model": "puzzle_boxes:item/skybox/skybox_test_6"},
-      {"predicate": {"custom_model_data":7  }, "model": "puzzle_boxes:item/skybox/skybox_test_7"},
+      {"predicate": {"custom_model_data":7  }, "model": "puzzle_boxes:item/skybox/skybox_test_9"},
       {"predicate": {"custom_model_data":10 }, "model": "puzzle_boxes:item/skybox/skybox_animation_unanimated"},
       {"predicate": {"custom_model_data":11 }, "model": "puzzle_boxes:item/skybox/skybox_animation_animated"},
 
