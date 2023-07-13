@@ -1,26 +1,6 @@
 {
-	"credit": "Made with Blockbench",
-	"texture_size": [32, 32],
-	"textures": {
-		"0": "puzzle_boxes:block/variations/building_blocks/foliage/yellow_vines_1",
-		"particle": "puzzle_boxes:block/variations/building_blocks/foliage/yellow_vines_1"
-	},
-	"elements": [
-		{
-			"from": [-2, 0, 15.5],
-			"to": [18, 16, 15.5],
-			"faces": {
-				"north": {"uv": [2.5, 0, 13, 8], "texture": "#0"},
-				"south": {"uv": [2.5, 0, 13, 8], "texture": "#0"}
-			}
-		},
-		{
-			"from": [-2, -16, 15.475],
-			"to": [18, 0, 15.475],
-			"faces": {
-				"north": {"uv": [2.5, 8, 13, 16], "texture": "#0"},
-				"south": {"uv": [2.5, 8, 13, 16], "texture": "#0"}
-			}
-		}
-	]
-}
+    "parent": "puzzle_boxes:block/variations/building_blocks/foliage/vines_base",
+    "textures": {
+      "vines": "puzzle_boxes:block/variations/building_blocks/foliage/yellow_vines_1"
+    }
+  }
