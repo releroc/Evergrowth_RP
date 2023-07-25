@@ -37,6 +37,15 @@
   "music_garden_view": {
     "sounds": [
       "puzzle_boxes:music_garden_view"],
-	  "subtitle": ""}
+	  "subtitle": ""},
+
+
+   "box_slide_short": {
+      "sounds": [
+        "puzzle_boxes:box_movement/effect_ice_push_short"
+      ],
+  "subtitle": "Box slides"   
+   } 
+
 }
 
