@@ -1,0 +1,10 @@
+{
+  "parent": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_1_new",
+  "textures": {
+    "layer0": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_top_1_new"
+  } ,
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_1_new"},
+    {"predicate": {"custom_model_data":2}, "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_1_new"}
+    ]
+}

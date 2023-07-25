@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/leafy_bush_1", "weight": 6}
+        ]
+    }
+}

@@ -29,6 +29,8 @@
       {"predicate": {"custom_model_data":302}, "model": "puzzle_boxes:item/buttons/view_button_selected"},
       {"predicate": {"custom_model_data":303}, "model": "puzzle_boxes:item/buttons/view_button_pressed"},
       {"predicate": {"custom_model_data":304}, "model": "puzzle_boxes:item/buttons/view_button_active_unselected"},
-      {"predicate": {"custom_model_data":305}, "model": "puzzle_boxes:item/buttons/view_button_active_selected"}
+      {"predicate": {"custom_model_data":305}, "model": "puzzle_boxes:item/buttons/view_button_active_selected"},
+      {"predicate": {"custom_model_data":306}, "model": "puzzle_boxes:item/buttons/view_button_teleport_unselected"},
+      {"predicate": {"custom_model_data":307}, "model": "puzzle_boxes:item/buttons/view_button_teleport_selected"}
       ]
   }

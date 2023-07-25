@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "puzzle_boxes:block/variations/building_blocks/misc/planks_1",
@@ -7,9 +7,9 @@
 	},
 	"elements": [
 		{
-			"from": [-6.88478, 2.57926, 14.975],
-			"to": [25.11522, 7.57926, 16],
-			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 8, 8]},
+			"from": [-6.88478, 2.57926, 14.85],
+			"to": [25.11522, 7.57926, 15.875],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 8, 7.875]},
 			"faces": {
 				"north": {"uv": [0, 0, 2.5, 16], "rotation": 90, "texture": "#0"},
 				"east": {"uv": [0, 15.5, 2.5, 16], "rotation": 90, "texture": "#0"},
@@ -20,9 +20,9 @@
 			}
 		},
 		{
-			"from": [-7.26746, 9.34462, 14.475],
-			"to": [24.73254, 14.34462, 15.5],
-			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"from": [-7.26746, 9.34462, 14.35],
+			"to": [24.73254, 14.34462, 15.375],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 7.875]},
 			"faces": {
 				"north": {"uv": [0, 0, 2.5, 16], "rotation": 90, "texture": "#0"},
 				"east": {"uv": [0, 15.5, 2.5, 16], "rotation": 90, "texture": "#0"},
@@ -33,9 +33,9 @@
 			}
 		},
 		{
-			"from": [4.4939, -10.04207, 14.725],
-			"to": [9.4939, 21.95793, 15.75],
-			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 8, 8]},
+			"from": [4.4939, -10.04207, 14.6],
+			"to": [9.4939, 21.95793, 15.625],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 8, 7.875]},
 			"faces": {
 				"north": {"uv": [0, 0, 2.5, 16], "texture": "#0"},
 				"east": {"uv": [0, 16, 0.5, 0], "rotation": 180, "texture": "#0"},

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "persistent=false": [
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_blue_0", "weight": 1}
+        ],
+        "persistent=true": [
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_blue_1", "weight": 1},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_blue_2", "weight": 1},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_blue_3", "weight": 1}
+        ]
+    }
+}

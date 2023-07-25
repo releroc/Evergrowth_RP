@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_floor_leaves_1", "weight": 10,"y":  0  },
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_floor_leaves_1", "weight": 10,"y":  90 },
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_floor_leaves_1", "weight": 10,"y":  180},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_floor_leaves_1", "weight": 10,"y":  -90},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_floor_leaves_2", "weight": 10,"y":  0  },
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_floor_leaves_2", "weight": 10,"y":  90 },
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_floor_leaves_2", "weight": 10,"y":  180},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_floor_leaves_2", "weight": 10,"y":  -90},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_floor_leaves_3", "weight": 10,"y":  0  },
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_floor_leaves_3", "weight": 10,"y":  90 },
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_floor_leaves_3", "weight": 10,"y":  180},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_floor_leaves_3", "weight": 10,"y":  -90}
+        ]
+    }
+}

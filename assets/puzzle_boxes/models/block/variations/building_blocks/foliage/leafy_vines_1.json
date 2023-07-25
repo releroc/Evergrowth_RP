@@ -1,0 +1,6 @@
+{
+    "parent": "puzzle_boxes:block/variations/building_blocks/foliage/vines_base",
+    "textures": {
+      "vines": "puzzle_boxes:block/variations/building_blocks/foliage/leafy_vines_1"
+    }
+  }

@@ -1,7 +1,7 @@
 {
 	"variants": {
 	  "layers=1": {
-		"model": "minecraft:block/snow_height2"
+		"model": "puzzle_boxes:block/variations/building_blocks/foliage/single_snow_layer"
 	  },
 	  "layers=2": {
 		"model": "minecraft:block/snow_height4"

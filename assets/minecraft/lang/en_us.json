@@ -1,6 +1,15 @@
 {
-    "language.name": "English",
-    "language.region": "United States",
-    "language.code": "en_us",
-    "container.crafting": ""
+  "container.crafting": "",
+  "effect.minecraft.jump_boost": "",
+  "effect.minecraft.invisibility": "",
+  "effect.minecraft.hunger": "",
+  "effect.minecraft.saturation": "",
+  "effect.minecraft.glowing": "",
+  "effect.minecraft.blindness": "",
+  "effect.minecraft.slowness": "",
+  "effect.minecraft.resistance": "",
+  "gui.advancements": "",
+  "chat.type.advancement.challenge": "%s has completed every puzzle and received %s",
+  "chat.type.advancement.goal": "%s discovered %s",
+  "chat.type.advancement.task": "%s discovered %s"
 }

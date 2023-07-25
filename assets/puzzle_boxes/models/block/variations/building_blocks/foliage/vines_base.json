@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"texture_size": [32, 32],
+	"textures": {
+		"particle": "#vines"
+	},
+	"elements": [
+		{
+			"from": [-3, 0, 15.5],
+			"to": [19, 16, 15.5],
+			"faces": {
+				"north": {"uv": [2.5, 0, 13.5, 8], "texture": "#vines"},
+				"south": {"uv": [2.5, 0, 13.5, 8], "texture": "#vines"}
+			}
+		},
+		{
+			"from": [-3, -16, 15.475],
+			"to": [19, 0, 15.475],
+			"faces": {
+				"north": {"uv": [2.5, 8, 13.5, 16], "texture": "#vines"},
+				"south": {"uv": [2.5, 8, 13.5, 16], "texture": "#vines"}
+			}
+		}
+	]
+}

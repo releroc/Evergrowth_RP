@@ -1,0 +1,6 @@
+{
+    "parent": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_base_2",
+    "textures": {
+      "leaves": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_red"
+    }
+  }

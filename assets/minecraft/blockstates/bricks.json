@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "": [
+            { "model": "puzzle_boxes:block/variations/building_blocks/bricks/bricks_1", "weight": 6},
+
+			{ "model": "puzzle_boxes:block/variations/building_blocks/bricks/bricks_2", "weight": 1,"y":  0},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/bricks/bricks_2", "weight": 1,"y": 90},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/bricks/bricks_2", "weight": 1,"y":180},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/bricks/bricks_2", "weight": 1,"y":-90},
+			
+			{ "model": "puzzle_boxes:block/variations/building_blocks/bricks/bricks_3", "weight": 1,"y":  0},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/bricks/bricks_3", "weight": 1,"y": 90},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/bricks/bricks_3", "weight": 1,"y":180},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/bricks/bricks_3", "weight": 1,"y":-90},
+			
+			{ "model": "puzzle_boxes:block/variations/building_blocks/bricks/bricks_4", "weight": 1,"y":  0},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/bricks/bricks_4", "weight": 1,"y": 90},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/bricks/bricks_4", "weight": 1,"y":180},
+			{ "model": "puzzle_boxes:block/variations/building_blocks/bricks/bricks_4", "weight": 1,"y":-90}
+			
+        ]
+    }
+}
