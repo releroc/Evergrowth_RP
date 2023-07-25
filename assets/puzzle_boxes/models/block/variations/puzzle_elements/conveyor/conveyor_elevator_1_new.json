@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"ambientocclusion": "false",
 	"textures": {
 		"0": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_frame_1",
 		"1": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_1_new",
