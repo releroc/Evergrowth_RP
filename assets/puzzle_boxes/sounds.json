@@ -42,12 +42,12 @@
 
    "box_slide_short": {
       "sounds": [
-        "puzzle_boxes:box_movement/effect_ice_push_short",
-        "puzzle_boxes:box_movement/ice_short_loop_add_crunch",
-        "puzzle_boxes:box_movement/ice_short_loop_lower_squeak",
-        "puzzle_boxes:box_movement/ice_short_loop_added_scrape",
-        "puzzle_boxes:box_movement/ice_short_loop_minus_squeak",
-        "puzzle_boxes:box_movement/ice_short_loop_full"
+        "puzzle_boxes:box_movement/ice_squeak",
+        "puzzle_boxes:box_movement/ice_ring",
+        "puzzle_boxes:box_movement/crunch_ice",
+        "puzzle_boxes:box_movement/ice_scrape",
+        "puzzle_boxes:box_movement/ice_chime",
+        "puzzle_boxes:box_movement/ice_highchime"
       ],
   "subtitle": "Box slides"   
    } 
