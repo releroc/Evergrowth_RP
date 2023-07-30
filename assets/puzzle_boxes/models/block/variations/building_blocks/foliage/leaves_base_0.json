@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
@@ -128,13 +129,14 @@
 		{
 			"from": [0, 0, 0],
 			"to": [16, 16, 16],
+			"shade": false,
 			"faces": {
-				"north": {"uv": [4, 4, 12, 12], "texture": "#leaves"},
-				"east": {"uv": [4, 4, 12, 12], "texture": "#leaves"},
-				"south": {"uv": [4, 4, 12, 12], "texture": "#leaves"},
-				"west": {"uv": [4, 4, 12, 12], "texture": "#leaves"},
-				"up": {"uv": [4, 4, 12, 12], "texture": "#leaves"},
-				"down": {"uv": [4, 4, 12, 12], "texture": "#leaves"}
+				"north": {"uv": [4, 4, 12, 12], "texture": "#leaves", "cullface": "north"},
+				"east": {"uv": [4, 4, 12, 12], "texture": "#leaves", "cullface": "east"},
+				"south": {"uv": [4, 4, 12, 12], "texture": "#leaves", "cullface": "south"},
+				"west": {"uv": [4, 4, 12, 12], "texture": "#leaves", "cullface": "west"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#leaves", "cullface": "up"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#leaves", "cullface": "down"}
 			}
 		}
 	],
