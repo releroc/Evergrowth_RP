@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "puzzle_boxes:item/location_icon/concrete_winter_symbol_1"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 0, 5.15],
+			"scale": [0.45, 0.45, 0.6]
+		}
+	}
+}

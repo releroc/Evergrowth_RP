@@ -20,7 +20,12 @@
       {"predicate": {"custom_model_data":401}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_vertical_placeholder_door_1"},
       {"predicate": {"custom_model_data":402}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_vertical_industrial_door_1"},
       {"predicate": {"custom_model_data":403}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"},
+
       
-      {"predicate": {"custom_model_data":501}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/branch_door_spring_1"}
+      {"predicate": {"custom_model_data":501}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/branch_door_spring_1"},
+
+      {"predicate": {"custom_model_data":601}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/branch_door_spring_decal_1"},
+      {"predicate": {"custom_model_data":602}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/branch_door_autumn_decal_1"},
+      {"predicate": {"custom_model_data":603}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/branch_door_winter_decal_1"}
       ]
   }
