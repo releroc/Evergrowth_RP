@@ -16,6 +16,8 @@
 
       {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:item/birds/single_bird_1"},
       {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:item/birds/three_bird_1"},
-      {"predicate": {"custom_model_data":103}, "model": "puzzle_boxes:item/birds/five_bird_1"}
+      {"predicate": {"custom_model_data":103}, "model": "puzzle_boxes:item/birds/five_bird_1"},
+
+      {"predicate": {"custom_model_data":201}, "model": "puzzle_boxes:item/text/paper_1"}
       ]
   }
