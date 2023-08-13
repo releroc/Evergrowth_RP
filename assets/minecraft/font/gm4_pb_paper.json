@@ -1,0 +1,13 @@
+{
+   "providers":[
+      {
+         "type":"bitmap",
+         "file":"puzzle_boxes:font/paper_1.png",
+         "ascent":0,
+         "height":256,
+         "chars":[
+            "\u0041"
+         ]
+      }
+   ]
+}
