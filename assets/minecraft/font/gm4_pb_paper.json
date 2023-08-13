@@ -3,7 +3,7 @@
       {
          "type":"bitmap",
          "file":"puzzle_boxes:font/paper_1.png",
-         "ascent":276,
+         "ascent":256,
          "height":256,
          "chars":[
             "\u0041"
