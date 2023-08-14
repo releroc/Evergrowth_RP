@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "puzzle_boxes:block/variations/building_blocks/misc/papers_1",
+		"particle": "puzzle_boxes:block/variations/building_blocks/misc/papers_1"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 2],
+			"to": [12, 0.25, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 0.125, 9]},
+			"faces": {
+				"north": {"uv": [16, 10, 12, 10.5], "texture": "#0"},
+				"east": {"uv": [15.5, 10, 16, 16], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [12, 15.5, 16, 16], "texture": "#0"},
+				"west": {"uv": [12, 10, 12.5, 16], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [12, 10, 16, 16], "texture": "#0"},
+				"down": {"uv": [12, 16, 16, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 0.25, 3],
+			"to": [15, 0.5, 11],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9, 0.125, 9]},
+			"faces": {
+				"north": {"uv": [11.5, 8, 12, 14], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [8, 13.5, 12, 14], "texture": "#0"},
+				"south": {"uv": [8, 8, 8.5, 14], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [12, 8, 8, 8.5], "texture": "#0"},
+				"up": {"uv": [8, 8, 12, 14], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [8, 14, 12, 8], "rotation": 90, "texture": "#0"}
+			}
+		}
+	]
+}
