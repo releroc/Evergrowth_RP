@@ -40,7 +40,7 @@
 	  "subtitle": ""},
 
 
-   "box_slide_short": {
+   "toff_box_slide_short": {
       "sounds": [
         "puzzle_boxes:box_movement/ice_all",
         "puzzle_boxes:box_movement/ice_packed_gong",
@@ -51,7 +51,15 @@
 
       ],
   "subtitle": "Box slides"   
-   } 
+
+   },
+   "box_slide_short": {
+    "sounds": [
+      "puzzle_boxes:box_movement/ice_sliding_sound_gm4"
+
+    ],
+"subtitle": "Box slides"   
+ } 
 
 }
 
