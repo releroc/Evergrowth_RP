@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/carved_pumpkin",
+    "overrides": [
+      {"predicate": {"custom_model_data":1}, "model": "puzzle_boxes:block/variations/misc/empty"},
+
+      {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:item/hats/x"},
+      {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:item/hats/x"}
+      ]
+  }
