@@ -39,6 +39,11 @@
       "puzzle_boxes:music_garden_view"],
 	  "subtitle": ""},
 
+    "music_winter_1": {
+      "sounds": [
+        "puzzle_boxes:music_winter_1"],
+      "subtitle": ""},
+
 
    "toff_box_slide_short": {
       "sounds": [
@@ -55,7 +60,8 @@
    },
    "box_slide_short": {
     "sounds": [
-      "puzzle_boxes:box_movement/ice_sliding_sound_gm4"
+      "puzzle_boxes:box_movement/ice_sliding_sound_gm4_1",
+      "puzzle_boxes:box_movement/ice_sliding_sound_gm4_2"
 
     ],
 "subtitle": "Box slides"   
