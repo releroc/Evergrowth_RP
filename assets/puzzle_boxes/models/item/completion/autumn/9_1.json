@@ -1,0 +1,6 @@
+{
+    "parent": "puzzle_boxes:item/completion/base_autumn",
+    "textures": {
+      "lights": "puzzle_boxes:item/completion/autumn/9_1"
+    }
+  }

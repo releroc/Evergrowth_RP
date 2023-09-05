@@ -1,0 +1,29 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"0": "puzzle_boxes:block/variations/building_blocks/foliage/lime_fern_2",
+		"particle": "puzzle_boxes:block/variations/building_blocks/foliage/lime_fern_2"
+	},
+	"elements": [
+		{
+			"from": [-4.2, 0, 8],
+			"to": [19.8, 16, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-4.2, 0, 8],
+			"to": [19.8, 16, 8],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#0"}
+			}
+		}
+	]
+}

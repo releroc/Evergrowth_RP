@@ -1,0 +1,6 @@
+{
+    "parent": "puzzle_boxes:item/completion/base_winter",
+    "textures": {
+      "lights": "puzzle_boxes:item/completion/winter/4_0"
+    }
+  }

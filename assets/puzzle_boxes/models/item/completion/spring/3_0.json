@@ -1,0 +1,6 @@
+{
+    "parent": "puzzle_boxes:item/completion/base_spring",
+    "textures": {
+      "lights": "puzzle_boxes:item/completion/spring/3_0"
+    }
+  }

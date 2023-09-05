@@ -1,0 +1,6 @@
+{
+    "parent": "puzzle_boxes:item/completion/base_summer",
+    "textures": {
+      "lights": "puzzle_boxes:item/completion/summer/3_1"
+    }
+  }
