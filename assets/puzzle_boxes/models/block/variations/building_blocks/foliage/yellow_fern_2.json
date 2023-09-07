@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "puzzle_boxes:block/variations/building_blocks/foliage/red_fern_1",
-		"particle": "puzzle_boxes:block/variations/building_blocks/foliage/red_fern_1"
+		"0": "puzzle_boxes:block/variations/building_blocks/foliage/yellow_fern_2",
+		"particle": "puzzle_boxes:block/variations/building_blocks/foliage/yellow_fern_2"
 	},
 	"elements": [
 		{

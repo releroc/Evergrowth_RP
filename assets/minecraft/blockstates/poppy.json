@@ -1,7 +1,10 @@
 {
     "variants": {
         "": [
-            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_fern_1", "weight": 6}
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_fern_1", "weight": 6},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_fern_2", "weight": 6},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_fern_3", "weight": 6},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/red_fern_4", "weight": 6}
         ]
     }
 }
