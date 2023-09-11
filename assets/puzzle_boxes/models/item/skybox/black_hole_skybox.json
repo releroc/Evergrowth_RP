@@ -1,13 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "puzzle_boxes:item/skybox/skybox_animation_animated/nz",
-		"1": "puzzle_boxes:item/skybox/skybox_animation_animated/ny",
-		"2": "puzzle_boxes:item/skybox/skybox_animation_animated/px",
-		"3": "puzzle_boxes:item/skybox/skybox_animation_animated/pz",
-		"5": "puzzle_boxes:item/skybox/skybox_animation_animated/nx",
-		"6": "puzzle_boxes:item/skybox/skybox_animation_animated/py",
-		"particle": "puzzle_boxes:item/skybox/skybox_animation_animated/nz"
+		"6": "puzzle_boxes:item/skybox/black_hole/black_hole"
 	},
 	"elements": [
 		{
@@ -15,7 +9,7 @@
 			"to": [32, 32, -16],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"south": {"uv": [0, 0, 16, 16], "texture": "#5"}
+				"south": {"uv": [0, 0, 16, 16], "texture": "#6"}
 			}
 		},
 		{
@@ -23,7 +17,7 @@
 			"to": [-16, 32, 32],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"east": {"uv": [0, 0, 16, 16], "texture": "#0"}
+				"east": {"uv": [0, 0, 16, 16], "texture": "#6"}
 			}
 		},
 		{
@@ -31,7 +25,7 @@
 			"to": [32, 32, 32],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#2"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#6"}
 			}
 		},
 		{
@@ -39,7 +33,7 @@
 			"to": [32, 32, 32],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"west": {"uv": [0, 0, 16, 16], "texture": "#3"}
+				"west": {"uv": [0, 0, 16, 16], "texture": "#6"}
 			}
 		},
 		{
@@ -47,7 +41,7 @@
 			"to": [32, 32, 32],
 			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
 			"faces": {
-				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#6"}
+				"down": {"uv": [0, 0, 16, 16], "texture": "#6"}
 			}
 		},
 		{
@@ -55,15 +49,11 @@
 			"to": [32, -16, 32],
 			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
 			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#1"}
+				"up": {"uv": [0, 0, 16, 16], "texture": "#6"}
 			}
 		}
 	],
 	"display": {
-		"firstperson_righthand": {
-			"translation": [-8.75, 0, -80],
-			"scale": [4, 4, 4]
-		},
 		"head": {
 			"scale": [4, 4, 4]
 		}

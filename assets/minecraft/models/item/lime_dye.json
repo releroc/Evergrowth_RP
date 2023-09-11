@@ -5,14 +5,8 @@
     } ,
     "overrides": [
       {"predicate": {"custom_model_data":1  }, "model": "puzzle_boxes:item/skybox/skybox"},
-      {"predicate": {"custom_model_data":2  }, "model": "puzzle_boxes:item/skybox/skybox_brightness_test_2"},
-      {"predicate": {"custom_model_data":3  }, "model": "puzzle_boxes:item/skybox/skybox_test_3"},
-      {"predicate": {"custom_model_data":4  }, "model": "puzzle_boxes:item/skybox/skybox_test_4"},
-      {"predicate": {"custom_model_data":5  }, "model": "puzzle_boxes:item/skybox/skybox_test_5"},
-      {"predicate": {"custom_model_data":6  }, "model": "puzzle_boxes:item/skybox/skybox_test_6"},
       {"predicate": {"custom_model_data":7  }, "model": "puzzle_boxes:item/skybox/skybox_test_9"},
-      {"predicate": {"custom_model_data":10 }, "model": "puzzle_boxes:item/skybox/skybox_animation_unanimated"},
-      {"predicate": {"custom_model_data":11 }, "model": "puzzle_boxes:item/skybox/skybox_animation_animated"},
+      {"predicate": {"custom_model_data":8  }, "model": "puzzle_boxes:item/skybox/black_hole_skybox"},
 
       {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:item/birds/single_bird_1"},
       {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:item/birds/three_bird_1"},
