@@ -255,6 +255,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "big_cube",
