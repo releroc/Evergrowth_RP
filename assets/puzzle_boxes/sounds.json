@@ -43,6 +43,16 @@
       "sounds": [
         "puzzle_boxes:music_winter_1"],
       "subtitle": ""},
+    
+      "music_winter_2": {
+        "sounds": [
+          "puzzle_boxes:music_winter_2"],
+        "subtitle": ""},
+
+        "music_winter_5": {
+          "sounds": [
+            "puzzle_boxes:music_winter_5"],
+          "subtitle": ""},
 
 
    "toff_box_slide_short": {
@@ -64,7 +74,27 @@
 
     ],
 "subtitle": "Box slides"   
- } 
+ },
+
+ "music_bricks_and_motar": {
+  "sounds": [
+    "puzzle_boxes:musicbricks_and_motar"],
+  "subtitle": ""},
+
+"music_autumnal_meadows": {
+          "sounds": [
+            "puzzle_boxes:music_autumnal_meadows"],
+          "subtitle": ""},
+
+ "music_challenging_builder": {
+  "sounds": [
+    "puzzle_boxes:music_challenging_builder"],
+  "subtitle": ""},
+
+  "music_amongst_the_treefolk": {
+   "sounds": [
+     "puzzle_boxes:music_amongst_the_treefolk"],
+   "subtitle": ""}
 
 }
 
