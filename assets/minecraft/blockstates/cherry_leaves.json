@@ -1,12 +1,12 @@
 {
     "variants": {
         "persistent=false": [
-            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_purple_0", "weight": 1}
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_aurora1_0", "weight": 1}
         ],
         "persistent=true": [
-            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_purple_1", "weight": 1},
-            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_purple_2", "weight": 1},
-            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_purple_3", "weight": 1}
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_aurora1_1", "weight": 1},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_aurora1_2", "weight": 1},
+            { "model": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_aurora1_3", "weight": 1}
         ]
     }
 }
