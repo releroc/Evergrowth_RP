@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_wet_concrete_side_1"
+    },
+    "facing=north": {
+      "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_wet_concrete_side_1",
+      "x": 180
+    },
+    "facing=south": {
+      "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_wet_graveled_concrete_side_1"
+    },
+    "facing=west": {
+      "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_wet_graveled_concrete_side_1",
+      "x": 180
+    }
+  }
+}
