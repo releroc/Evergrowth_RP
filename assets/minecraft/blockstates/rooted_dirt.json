@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_concrete_1", "weight": 100},
+
+            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_concrete_2", "y": 0 ,"weight": 20},
+            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_concrete_2", "y": 90,"weight": 20},
+            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_concrete_2", "y":180,"weight": 20},
+            { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_concrete_2", "y":-90,"weight": 20}
+        ]
+    }
+}

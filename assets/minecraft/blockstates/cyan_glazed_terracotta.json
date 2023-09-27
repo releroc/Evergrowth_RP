@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "facing=east": [
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_concrete_side_1", "weight": 100},
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_concrete_side_2", "weight": 100},
+
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_concrete_side_3", "y": 0 ,"weight": 20},
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_concrete_side_3", "y": 90,"weight": 20},
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_concrete_side_3", "y":180,"weight": 20},
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_concrete_side_3", "y":-90,"weight": 20},
+
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_concrete_side_4", "y": 0 ,"weight": 20},
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_concrete_side_4", "y": 90,"weight": 20},
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_concrete_side_4", "y":180,"weight": 20},
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_concrete_side_4", "y":-90,"weight": 20}
+  ],
+    "facing=north": [
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_graveled_concrete_side_1", "weight": 100},
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_graveled_concrete_side_2", "weight": 100},
+
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_graveled_concrete_side_3", "y": 0 ,"weight": 20},
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_graveled_concrete_side_3", "y": 90,"weight": 20},
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_graveled_concrete_side_3", "y":180,"weight": 20},
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_graveled_concrete_side_3", "y":-90,"weight": 20},
+
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_graveled_concrete_side_4", "y": 0 ,"weight": 20},
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_graveled_concrete_side_4", "y": 90,"weight": 20},
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_graveled_concrete_side_4", "y":180,"weight": 20},
+      { "model": "puzzle_boxes:block/variations/building_blocks/concrete/white_grassy_graveled_concrete_side_4", "y":-90,"weight": 20}
+  ],
+    "facing=south": {
+      "model": "puzzle_boxes:block/variations/building_blocks/concrete/x"
+    },
+    "facing=west": {
+      "model": "puzzle_boxes:block/variations/building_blocks/concrete/x"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
     "parent": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_base_0",
     "textures": {
-      "leaves": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_aurora"
+      "leaves": "puzzle_boxes:block/variations/building_blocks/foliage/leaves_aurora_2"
     }
   }

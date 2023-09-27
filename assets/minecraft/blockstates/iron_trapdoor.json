@@ -17,13 +17,14 @@
       "y": 90
     },
     "facing=north,half=bottom,open=false": {
-      "model": "minecraft:block/iron_trapdoor_bottom"
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/wood_grate"
     },
     "facing=north,half=bottom,open=true": {
       "model": "minecraft:block/iron_trapdoor_open"
     },
     "facing=north,half=top,open=false": {
-      "model": "minecraft:block/iron_trapdoor_top"
+      "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/wood_grate",
+      "x": 180
     },
     "facing=north,half=top,open=true": {
       "model": "puzzle_boxes:block/variations/building_blocks/trapdoor/iron_grate",
