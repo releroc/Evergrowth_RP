@@ -88,6 +88,10 @@
     
     "music_summer_glade_calling": {"sounds": [
         "puzzle_boxes:music/summer/glade_calling"],
+        "subtitle": "Song Plays: \"Glade Calling\" by ToffeeMax"},
+    
+    "music_summer_glade_calling_sans_acid_intro": {"sounds": [
+        "puzzle_boxes:music/summer/glade_calling_sans_acid_intro"],
         "subtitle": "Song Plays: \"Glade Calling\" by ToffeeMax"}
     
     
