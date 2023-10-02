@@ -1,0 +1,6 @@
+{
+    "parent": "puzzle_boxes:item/toggles/base_toggle",
+    "textures": {
+      "texture": "puzzle_boxes:item/toggles/black_hole_locked_pressed"
+    }
+  }

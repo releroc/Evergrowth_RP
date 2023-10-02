@@ -1,0 +1,6 @@
+{
+    "parent": "puzzle_boxes:item/toggles/base_toggle",
+    "textures": {
+      "texture": "puzzle_boxes:item/toggles/spring_unlocked_unpressed"
+    }
+  }

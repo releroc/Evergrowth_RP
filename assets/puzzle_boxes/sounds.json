@@ -1,100 +1,94 @@
-
 {
-  "background_garden_1": {
-    "sounds": [
-      "puzzle_boxes:background_garden_1"],
-	  "subtitle": ""},
-
-  "effect_door_open": {
-     "sounds": [
-     "puzzle_boxes:effect_door_open"],
-    "subtitle": ""},
-
-  "music_garden_reset": {
-    "sounds": [
-      "puzzle_boxes:music_garden_reset"],
-	  "subtitle": ""},
-
-  "music_garden_undo": {
-    "sounds": [
-      "puzzle_boxes:music_garden_undo"],
-	  "subtitle": ""},
-  
-  "effect_undo": {
-    "sounds": [
-    "puzzle_boxes:effect_undo"],
-  "subtitle": "Move Reversed"},
-
-  "effect_box_lift": {
-    "sounds": [
-    "puzzle_boxes:effect_box_lift",
-    "puzzle_boxes:effect_box_lift_alt",
-    "puzzle_boxes:effect_box_lift_alt_2",
-    "puzzle_boxes:effect_box_lift_alt_4",
-    "puzzle_boxes:effect_box_lift_alt_5"],
-  "subtitle": "Box moved up"},
-
-  "music_garden_view": {
-    "sounds": [
-      "puzzle_boxes:music_garden_view"],
-	  "subtitle": ""},
-
-    "music_winter_1": {
-      "sounds": [
-        "puzzle_boxes:music_winter_1"],
-      "subtitle": ""},
-    
-      "music_winter_2": {
-        "sounds": [
-          "puzzle_boxes:music_winter_2"],
+    "background_garden_1": {"sounds": [
+        "puzzle_boxes:background_garden_1"],
         "subtitle": ""},
 
-        "music_winter_5": {
-          "sounds": [
-            "puzzle_boxes:music_winter_5"],
-          "subtitle": ""},
 
+    "effect_door_open": {"sounds": [
+        "puzzle_boxes:effect_door_open"],
+        "subtitle": ""},
 
-   "toff_box_slide_short": {
-      "sounds": [
+    "effect_undo": {"sounds": [
+        "puzzle_boxes:effect_undo"],
+        "subtitle": "Move Reversed"},
+
+    "effect_box_lift": {"sounds": [
+        "puzzle_boxes:effect_box_lift",
+        "puzzle_boxes:effect_box_lift_alt",
+        "puzzle_boxes:effect_box_lift_alt_2",
+        "puzzle_boxes:effect_box_lift_alt_4",
+        "puzzle_boxes:effect_box_lift_alt_5"],
+        "subtitle": "Box moved up"},
+    
+    "effect_toff_box_slide_short": {"sounds": [ 
         "puzzle_boxes:box_movement/ice_all",
         "puzzle_boxes:box_movement/ice_packed_gong",
         "puzzle_boxes:box_movement/ice_packed_only",
         "puzzle_boxes:box_movement/ice_packed_squeak",
         "puzzle_boxes:box_movement/ice_squeak_only",
-        "puzzle_boxes:box_movement/ice_squeak_scrape"
+        "puzzle_boxes:box_movement/ice_squeak_scrape"],
+        "subtitle": "Box slides"},
 
-      ],
-  "subtitle": "Box slides"   
+    "effect_box_slide_short": {"sounds": [
+        "puzzle_boxes:box_movement/ice_sliding_sound_gm4_2"],
+        "subtitle": "Box slides"},
 
-   },
-   "box_slide_short": {
-    "sounds": [
-      "puzzle_boxes:box_movement/ice_sliding_sound_gm4_2"
 
-    ],
-"subtitle": "Box slides"   
- },
-
- "music_bricks_and_mortar": {
-  "sounds": [
-    "puzzle_boxes:music_bricks_and_motar"],
-  "subtitle": ""},
-
-"music_autumnal_meadows": {
-          "sounds": [
-            "puzzle_boxes:music_autumnal_meadows"],
-          "subtitle": ""},
-
- "music_challenging_builder": {
-  "sounds": [
-    "puzzle_boxes:music_challenging_builder"],
-  "subtitle": ""},
-
-  "music_amongst_the_treefolk": {
-   "sounds": [
-     "puzzle_boxes:music_amongst_the_treefolk"],
-   "subtitle": ""}
-
+    "music_spring_view": {"sounds": [
+        "puzzle_boxes:music/spring/view"],
+        "subtitle": "Song Plays: \"View\" by BartTheBart"},
+    
+    "music_spring_undo": {"sounds": [
+        "puzzle_boxes:music/spring/undo"],
+        "subtitle": "Song Plays: \"Undo\" by BartTheBart"},
+    
+    "music_spring_reset": {"sounds": [
+        "puzzle_boxes:music/spring/reset"],
+        "subtitle": "Song Plays: \"Reset\" by BartTheBart"},
+    
+    "music_autumn_bricks_and_mortar": {"sounds": [
+        "puzzle_boxes:music/autumn/bricks_and_mortar"],
+        "subtitle": "Song Plays: \"Bricks And Mortar\" by ToffeeMax"},
+    
+    "music_autumn_challenging_builder": {"sounds": [
+        "puzzle_boxes:music/autumn/challenging_builder"],
+        "subtitle": "Song Plays: \"Challenging Builder\" by ToffeeMax"},
+    
+    "music_autumn_timber_and_vines": {"sounds": [
+        "puzzle_boxes:music/autumn/timber_and_vines"],
+        "subtitle": "Song Plays: \"Timber And Vines\" by ToffeeMax"},
+    
+    "music_autumn_autumnal_meadows": {"sounds": [
+        "puzzle_boxes:music/autumn/autumnal_meadows"],
+        "subtitle": "Song Plays: \"Autumnal Meadows\" by ToffeeMax"},
+    
+    "music_winter_bells_and_angels": {"sounds": [
+        "puzzle_boxes:music/winter/bells_and_angels"],
+        "subtitle": "Song Plays: \"Bells And Angels\" by ToffeeMax"},
+    
+    "music_winter_godless_pacing": {"sounds": [
+        "puzzle_boxes:music/winter/godless_pacing"],
+        "subtitle": "Song Plays: \"Godless Pacing\" by ToffeeMax"},
+    
+    "music_winter_ice_and_ash": {"sounds": [
+        "puzzle_boxes:music/winter/ice_and_ash"],
+        "subtitle": "Song Plays: \"Ice And Ash\" by ToffeeMax"},
+    
+    "music_summer_amongst_the_treefolk": {"sounds": [
+        "puzzle_boxes:music/summer/amongst_the_treefolk"],
+        "subtitle": "Song Plays: \"Amongst The Treefolk\" by ToffeeMax"},
+    
+    "music_summer_and_near_be_driftwood": {"sounds": [
+        "puzzle_boxes:music/summer/and_near_be_driftwood"],
+        "subtitle": "Song Plays: \"And Near Be Driftwood\" by ToffeeMax"},
+    
+    "music_summer_evergreen_trees": {"sounds": [
+        "puzzle_boxes:music/summer/evergreen_trees"],
+        "subtitle": "Song Plays: \"Evergreen Trees\" by ToffeeMax"},
+    
+    "music_summer_glade_calling": {"sounds": [
+        "puzzle_boxes:music/summer/glade_calling"],
+        "subtitle": "Song Plays: \"Glade Calling\" by ToffeeMax"}
+    
+    
 }
-

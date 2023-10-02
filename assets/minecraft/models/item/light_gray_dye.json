@@ -107,6 +107,33 @@
       {"predicate": {"custom_model_data":457}, "model": "puzzle_boxes:item/completion/summer/7_1"},
       {"predicate": {"custom_model_data":458}, "model": "puzzle_boxes:item/completion/summer/8_1"},
       {"predicate": {"custom_model_data":459}, "model": "puzzle_boxes:item/completion/summer/9_1"},
-      {"predicate": {"custom_model_data":460}, "model": "puzzle_boxes:item/completion/summer/10_1"}
+      {"predicate": {"custom_model_data":460}, "model": "puzzle_boxes:item/completion/summer/10_1"},
+
+
+
+      {"predicate": {"custom_model_data":500}, "model": "puzzle_boxes:item/toggles/spring_unlocked_unpressed"},
+      {"predicate": {"custom_model_data":501}, "model": "puzzle_boxes:item/toggles/spring_unlocked_pressed"},
+      {"predicate": {"custom_model_data":502}, "model": "puzzle_boxes:item/toggles/spring_locked_pressed"},
+
+      {"predicate": {"custom_model_data":510}, "model": "puzzle_boxes:item/toggles/autumn_unlocked_unpressed"},
+      {"predicate": {"custom_model_data":511}, "model": "puzzle_boxes:item/toggles/autumn_unlocked_pressed"},
+      {"predicate": {"custom_model_data":512}, "model": "puzzle_boxes:item/toggles/autumn_locked_pressed"},
+
+      {"predicate": {"custom_model_data":520}, "model": "puzzle_boxes:item/toggles/winter_unlocked_unpressed"},
+      {"predicate": {"custom_model_data":521}, "model": "puzzle_boxes:item/toggles/winter_unlocked_pressed"},
+      {"predicate": {"custom_model_data":522}, "model": "puzzle_boxes:item/toggles/winter_locked_pressed"},
+
+      {"predicate": {"custom_model_data":530}, "model": "puzzle_boxes:item/toggles/summer_unlocked_unpressed"},
+      {"predicate": {"custom_model_data":531}, "model": "puzzle_boxes:item/toggles/summer_unlocked_pressed"},
+      {"predicate": {"custom_model_data":532}, "model": "puzzle_boxes:item/toggles/summer_locked_pressed"},
+
+      {"predicate": {"custom_model_data":540}, "model": "puzzle_boxes:item/toggles/black_hole_unlocked_unpressed"},
+      {"predicate": {"custom_model_data":541}, "model": "puzzle_boxes:item/toggles/black_hole_unlocked_pressed"},
+      {"predicate": {"custom_model_data":542}, "model": "puzzle_boxes:item/toggles/black_hole_locked_pressed"},
+
+      {"predicate": {"custom_model_data":550}, "model": "puzzle_boxes:item/toggles/secrets_unlocked_unpressed"},
+      {"predicate": {"custom_model_data":551}, "model": "puzzle_boxes:item/toggles/secrets_unlocked_pressed"},
+      {"predicate": {"custom_model_data":552}, "model": "puzzle_boxes:item/toggles/secrets_locked_pressed"}
+      
       ]
   }
