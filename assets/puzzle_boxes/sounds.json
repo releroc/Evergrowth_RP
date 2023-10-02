@@ -4,9 +4,9 @@
         "subtitle": ""},
 
 
-    "effect_door_open": {"sounds": [
+    "effect_puzzle_complete": {"sounds": [
         "puzzle_boxes:effect_door_open"],
-        "subtitle": ""},
+        "subtitle": "\"Ding Dong\""},
 
     "effect_undo": {"sounds": [
         "puzzle_boxes:effect_undo"],
