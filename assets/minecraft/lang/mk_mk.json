@@ -6,6 +6,7 @@
   "effect.minecraft.saturation": "",
   "effect.minecraft.glowing": "",
   "effect.minecraft.blindness": "",
+  "effect.minecraft.darkness": "",
   "effect.minecraft.slowness": "",
   "effect.minecraft.resistance": "",
   "chat.type.advancement.challenge": "%s has completed every puzzle and received %s",
