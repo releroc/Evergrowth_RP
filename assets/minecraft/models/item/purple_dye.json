@@ -7,7 +7,11 @@
       {"predicate": {"custom_model_data":1  }, "model": "puzzle_boxes:item/secrets/flower_1"},
       {"predicate": {"custom_model_data":100}, "model": "puzzle_boxes:item/secrets/black_hole_hat"},
       {"predicate": {"custom_model_data":200}, "model": "puzzle_boxes:item/secrets/black_hole"},
-      {"predicate": {"custom_model_data":201}, "model": "puzzle_boxes:item/secrets/black_hole_swirl"}
+      {"predicate": {"custom_model_data":201}, "model": "puzzle_boxes:item/secrets/black_hole_swirl"},
+
+      {"predicate": {"custom_model_data":300}, "model": "puzzle_boxes:item/secrets/counter_0"},
+      {"predicate": {"custom_model_data":301}, "model": "puzzle_boxes:item/secrets/counter_1"},
+      {"predicate": {"custom_model_data":302}, "model": "puzzle_boxes:item/secrets/counter_empty"}
       
       ]
   }
