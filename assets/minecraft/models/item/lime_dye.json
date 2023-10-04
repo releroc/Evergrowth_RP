@@ -18,6 +18,8 @@
       {"predicate": {"custom_model_data":103}, "model": "puzzle_boxes:item/birds/five_bird_1"},
 
       {"predicate": {"custom_model_data":201}, "model": "puzzle_boxes:item/text/paper_1"},
-      {"predicate": {"custom_model_data":202}, "model": "puzzle_boxes:item/text/paper_2"}
+      {"predicate": {"custom_model_data":202}, "model": "puzzle_boxes:item/text/paper_2"},
+
+      {"predicate": {"custom_model_data":300 }, "model": "puzzle_boxes:block/variations/misc/ball_statue_1"}
       ]
   }
