@@ -5,7 +5,8 @@
     } ,
     "overrides": [
       {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/small_horizontal_placeholder_door_1"},
-      {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"},
+      {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/small_horizontal_factory_door_1"},
+      {"predicate": {"custom_model_data":103}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"},
 
       {"predicate": {"custom_model_data":201}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/small_vertical_placeholder_door_1"},
       {"predicate": {"custom_model_data":202}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/small_vertical_industrial_door_1"},
@@ -15,7 +16,9 @@
       {"predicate": {"custom_model_data":301}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_placeholder_door_1"},
       {"predicate": {"custom_model_data":302}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_garden_door_1"},
       {"predicate": {"custom_model_data":304}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_factory_door_1"},
-      {"predicate": {"custom_model_data":305}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"},
+      {"predicate": {"custom_model_data":305}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_winter_door_1"},
+      {"predicate": {"custom_model_data":306}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_winter_door_2"},
+      {"predicate": {"custom_model_data":307}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"},
 
       {"predicate": {"custom_model_data":401}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_vertical_placeholder_door_1"},
       {"predicate": {"custom_model_data":402}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_vertical_industrial_door_1"},

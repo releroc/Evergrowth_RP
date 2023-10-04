@@ -1,0 +1,15 @@
+{
+	"textures": {
+		"0": "puzzle_boxes:item/misc/black_wall",
+		"particle": "puzzle_boxes:item/misc/black_wall"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 8],
+			"to": [32, 32, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}
