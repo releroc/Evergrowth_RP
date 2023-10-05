@@ -8,19 +8,13 @@
       {"predicate": {"custom_model_data":2}, "model": "puzzle_boxes:block/variations/puzzle_elements/teleporter/teleporter_off"},
       {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_empty"},
       {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_square"},
-      {"predicate": {"custom_model_data":103}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_circle"},
-      {"predicate": {"custom_model_data":104}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_triangle"},
-      {"predicate": {"custom_model_data":105}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_star"},
-      {"predicate": {"custom_model_data":106}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_plus"},
-      {"predicate": {"custom_model_data":107}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_diamond"},
+      {"predicate": {"custom_model_data":103}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_magnet"},
+      {"predicate": {"custom_model_data":104}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/pressure_plate_hole"},
 
       {"predicate": {"custom_model_data":151}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_empty"},
       {"predicate": {"custom_model_data":152}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_square"},
-      {"predicate": {"custom_model_data":153}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_circle"},
-      {"predicate": {"custom_model_data":154}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_triangle"},
-      {"predicate": {"custom_model_data":155}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_star"},
-      {"predicate": {"custom_model_data":156}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_plus"},
-      {"predicate": {"custom_model_data":157}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_diamond"},
+      {"predicate": {"custom_model_data":153}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_magnet"},
+      {"predicate": {"custom_model_data":154}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/active_pressure_plate_hole"},
 
 
       {"predicate": {"custom_model_data":201}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/plug_inactive_1"},
@@ -28,15 +22,6 @@
 
       {"predicate": {"custom_model_data":251}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/plug_active_1"},
       {"predicate": {"custom_model_data":252}, "model": "puzzle_boxes:block/variations/puzzle_elements/lamp/lamp_on"},
-
-
-      {"predicate": {"custom_model_data":301}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_empty"},
-      {"predicate": {"custom_model_data":302}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_square"},
-      {"predicate": {"custom_model_data":303}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_circle"},
-      {"predicate": {"custom_model_data":304}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_triangle"},
-      {"predicate": {"custom_model_data":305}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_star"},
-      {"predicate": {"custom_model_data":306}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_plus"},
-      {"predicate": {"custom_model_data":307}, "model": "puzzle_boxes:block/variations/puzzle_elements/pressure_plate/marker_diamond"},
 
       {"predicate": {"custom_model_data":401}, "model": "puzzle_boxes:block/variations/misc/empty"}
       
