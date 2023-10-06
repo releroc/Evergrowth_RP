@@ -3,8 +3,8 @@
       {
          "type":"bitmap",
          "file":"puzzle_boxes:font/evergrowth_1.png",
-         "ascent":256,
-         "height":256,
+         "ascent":50,
+         "height":100,
          "chars":[
             "A"
          ]
