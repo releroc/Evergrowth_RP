@@ -1,0 +1,13 @@
+{
+   "providers":[
+      {
+         "type":"bitmap",
+         "file":"puzzle_boxes:font/evergrowth_1.png",
+         "ascent":256,
+         "height":256,
+         "chars":[
+            "A"
+         ]
+      }
+   ]
+}
