@@ -6,7 +6,37 @@
          "ascent":256,
          "height":256,
          "chars":[
-            "\u0041"
+            "A"
+         ]
+      },
+
+      {
+         "type":"bitmap",
+         "file":"puzzle_boxes:font/paper_2.png",
+         "ascent":256,
+         "height":256,
+         "chars":[
+            "B"
+         ]
+      },
+
+      {
+         "type":"bitmap",
+         "file":"puzzle_boxes:font/paper_3.png",
+         "ascent":256,
+         "height":256,
+         "chars":[
+            "C"
+         ]
+      },
+
+      {
+         "type":"bitmap",
+         "file":"puzzle_boxes:font/paper_4.png",
+         "ascent":256,
+         "height":256,
+         "chars":[
+            "D"
          ]
       }
    ]

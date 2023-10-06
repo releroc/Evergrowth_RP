@@ -5,7 +5,13 @@
     } ,
     "overrides": [
       {"predicate": {"custom_model_data":1  }, "model": "puzzle_boxes:item/secrets/flower_1"},
+      {"predicate": {"custom_model_data":2  }, "model": "puzzle_boxes:item/secrets/secret_spring"},
+      {"predicate": {"custom_model_data":3  }, "model": "puzzle_boxes:item/secrets/secret_autumn"},
+      {"predicate": {"custom_model_data":4  }, "model": "puzzle_boxes:item/secrets/secret_winter"},
+      {"predicate": {"custom_model_data":5  }, "model": "puzzle_boxes:item/secrets/secret_summer"},
+      
       {"predicate": {"custom_model_data":100}, "model": "puzzle_boxes:item/secrets/black_hole_hat"},
+
       {"predicate": {"custom_model_data":200}, "model": "puzzle_boxes:item/secrets/black_hole"},
       {"predicate": {"custom_model_data":201}, "model": "puzzle_boxes:item/secrets/black_hole_swirl"},
 

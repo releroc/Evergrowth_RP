@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "puzzle_boxes:block/variations/misc/door_block_1"
+    },
+    "facing=north": {
+      "model": "puzzle_boxes:block/variations/misc/door_block_2"
+    },
+    "facing=south": {
+      "model": "puzzle_boxes:block/variations/misc/door_block_3"
+    },
+    "facing=west": {
+      "model": "puzzle_boxes:block/variations/misc/door_block_1"
+    }
+  }
+}
