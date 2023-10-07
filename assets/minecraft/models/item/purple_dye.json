@@ -10,6 +10,7 @@
       {"predicate": {"custom_model_data":3  }, "model": "puzzle_boxes:item/secrets/secret_autumn"},
       {"predicate": {"custom_model_data":4  }, "model": "puzzle_boxes:item/secrets/secret_winter"},
       {"predicate": {"custom_model_data":5  }, "model": "puzzle_boxes:item/secrets/secret_summer"},
+      {"predicate": {"custom_model_data":6  }, "model": "puzzle_boxes:item/secrets/flower_3"},
       
       {"predicate": {"custom_model_data":100}, "model": "puzzle_boxes:item/secrets/black_hole_hat"},
 
