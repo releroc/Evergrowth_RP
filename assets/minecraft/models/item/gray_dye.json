@@ -18,7 +18,9 @@
       {"predicate": {"custom_model_data":304}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_factory_door_1"},
       {"predicate": {"custom_model_data":305}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_winter_door_1"},
       {"predicate": {"custom_model_data":306}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_winter_door_2"},
-      {"predicate": {"custom_model_data":307}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"},
+      {"predicate": {"custom_model_data":307}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_tree_door_1"},
+      {"predicate": {"custom_model_data":308}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_horizontal_factory_door_2"},
+      {"predicate": {"custom_model_data":309}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/x"},
 
       {"predicate": {"custom_model_data":401}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_vertical_placeholder_door_1"},
       {"predicate": {"custom_model_data":402}, "model": "puzzle_boxes:block/variations/puzzle_elements/door/large_vertical_industrial_door_1"},

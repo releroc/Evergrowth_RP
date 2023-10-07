@@ -12,6 +12,7 @@
       {"predicate": {"custom_model_data":11 }, "model": "puzzle_boxes:item/misc/test_thing_2"},
       {"predicate": {"custom_model_data":12 }, "model": "puzzle_boxes:item/misc/test_thing_3"},
       {"predicate": {"custom_model_data":13 }, "model": "puzzle_boxes:item/skybox/joke_skybox"},
+      {"predicate": {"custom_model_data":14 }, "model": "puzzle_boxes:item/skybox/dark_skybox"},
 
       {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:item/birds/single_bird_1"},
       {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:item/birds/three_bird_1"},
