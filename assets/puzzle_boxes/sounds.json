@@ -32,6 +32,10 @@
     "effect_box_slide_short": {"sounds": [
         "puzzle_boxes:box_movement/ice_sliding_sound_gm4_2"],
         "subtitle": "Box slides"},
+        
+    "effect_magnet": {"sounds": [
+        "puzzle_boxes:effect_magnet"],
+        "subtitle": "Magnet beams"},
 
 
     "music_spring_view": {"sounds": [
