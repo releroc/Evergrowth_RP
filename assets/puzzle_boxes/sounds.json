@@ -8,6 +8,18 @@
         "puzzle_boxes:effect_door_open"],
         "subtitle": "\"Ding Dong\""},
 
+    "effect_puzzle_complete_alt": {"sounds": [
+        "puzzle_boxes:ding_dong/than_1",
+        "puzzle_boxes:ding_dong/than_2",
+        "puzzle_boxes:ding_dong/than_3",
+        "puzzle_boxes:ding_dong/than_4",
+        "puzzle_boxes:ding_dong/than_5",
+        "puzzle_boxes:ding_dong/than_6",
+        "puzzle_boxes:ding_dong/than_7",
+        "puzzle_boxes:ding_dong/than_8",
+        "puzzle_boxes:ding_dong/than_9"],
+        "subtitle": "\"Ding Dong\""},
+
     "effect_undo": {"sounds": [
         "puzzle_boxes:effect_undo"],
         "subtitle": "Move Reversed"},
