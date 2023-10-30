@@ -51,64 +51,49 @@
 
 
     "music_spring_view": {"sounds": [
-        "puzzle_boxes:music/spring/view"],
-        "subtitle": "Song Plays: \"View\" by BartTheBart"},
+        "puzzle_boxes:music/spring/view"]},
     
     "music_spring_undo": {"sounds": [
-        "puzzle_boxes:music/spring/undo"],
-        "subtitle": "Song Plays: \"Undo\" by BartTheBart"},
+        "puzzle_boxes:music/spring/undo"]},
     
     "music_spring_reset": {"sounds": [
-        "puzzle_boxes:music/spring/reset"],
-        "subtitle": "Song Plays: \"Reset\" by BartTheBart"},
+        "puzzle_boxes:music/spring/reset"]},
     
     "music_autumn_bricks_and_mortar": {"sounds": [
-        "puzzle_boxes:music/autumn/bricks_and_mortar"],
-        "subtitle": "Song Plays: \"Bricks And Mortar\" by ToffeeMax"},
+        "puzzle_boxes:music/autumn/bricks_and_mortar"]},
     
     "music_autumn_challenging_builder": {"sounds": [
-        "puzzle_boxes:music/autumn/challenging_builder"],
-        "subtitle": "Song Plays: \"Challenging Builder\" by ToffeeMax"},
+        "puzzle_boxes:music/autumn/challenging_builder"]},
     
     "music_autumn_timber_and_vines": {"sounds": [
-        "puzzle_boxes:music/autumn/timber_and_vines"],
-        "subtitle": "Song Plays: \"Timber And Vines\" by ToffeeMax"},
+        "puzzle_boxes:music/autumn/timber_and_vines"]},
     
     "music_autumn_autumnal_meadows": {"sounds": [
-        "puzzle_boxes:music/autumn/autumnal_meadows"],
-        "subtitle": "Song Plays: \"Autumnal Meadows\" by ToffeeMax"},
+        "puzzle_boxes:music/autumn/autumnal_meadows"]},
     
     "music_winter_bells_and_angels": {"sounds": [
-        "puzzle_boxes:music/winter/bells_and_angels"],
-        "subtitle": "Song Plays: \"Bells And Angels\" by ToffeeMax"},
+        "puzzle_boxes:music/winter/bells_and_angels"]},
     
     "music_winter_godless_pacing": {"sounds": [
-        "puzzle_boxes:music/winter/godless_pacing"],
-        "subtitle": "Song Plays: \"Godless Pacing\" by ToffeeMax"},
+        "puzzle_boxes:music/winter/godless_pacing"]},
     
     "music_winter_ice_and_ash": {"sounds": [
-        "puzzle_boxes:music/winter/ice_and_ash"],
-        "subtitle": "Song Plays: \"Ice And Ash\" by ToffeeMax"},
+        "puzzle_boxes:music/winter/ice_and_ash"]},
     
     "music_summer_amongst_the_treefolk": {"sounds": [
-        "puzzle_boxes:music/summer/amongst_the_treefolk"],
-        "subtitle": "Song Plays: \"Amongst The Treefolk\" by ToffeeMax"},
+        "puzzle_boxes:music/summer/amongst_the_treefolk"]},
     
     "music_summer_and_near_be_driftwood": {"sounds": [
-        "puzzle_boxes:music/summer/and_near_be_driftwood"],
-        "subtitle": "Song Plays: \"And Near Be Driftwood\" by ToffeeMax"},
+        "puzzle_boxes:music/summer/and_near_be_driftwood"]},
     
     "music_summer_evergreen_trees": {"sounds": [
-        "puzzle_boxes:music/summer/evergreen_trees"],
-        "subtitle": "Song Plays: \"Evergreen Trees\" by ToffeeMax"},
+        "puzzle_boxes:music/summer/evergreen_trees"]},
     
     "music_summer_glade_calling": {"sounds": [
-        "puzzle_boxes:music/summer/glade_calling"],
-        "subtitle": "Song Plays: \"Glade Calling\" by ToffeeMax"},
+        "puzzle_boxes:music/summer/glade_calling"]},
     
     "music_summer_glade_calling_sans_acid_intro": {"sounds": [
-        "puzzle_boxes:music/summer/glade_calling_sans_acid_intro"],
-        "subtitle": "Song Plays: \"Glade Calling\" by ToffeeMax"}
+        "puzzle_boxes:music/summer/glade_calling_sans_acid_intro"]}
     
     
 }
