@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "puzzle_boxes:item/birds/animated_bird_2",
-		"particle": "puzzle_boxes:item/birds/animated_bird_2"
+		"0": "puzzle_boxes:item/birds/sitting_bird_1",
+		"particle": "puzzle_boxes:item/birds/sitting_bird_1"
 	},
 	"elements": [
 		{
