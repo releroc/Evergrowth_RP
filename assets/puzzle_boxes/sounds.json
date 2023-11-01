@@ -17,7 +17,14 @@
         "puzzle_boxes:ding_dong/than_6",
         "puzzle_boxes:ding_dong/than_7",
         "puzzle_boxes:ding_dong/than_8",
-        "puzzle_boxes:ding_dong/than_9"],
+        "puzzle_boxes:ding_dong/kyrius_1",
+        "puzzle_boxes:ding_dong/kyrius_2",
+        "puzzle_boxes:ding_dong/kyrius_3",
+        "puzzle_boxes:ding_dong/kyrius_4",
+        "puzzle_boxes:ding_dong/kyrius_5",
+        "puzzle_boxes:ding_dong/kyrius_6",
+        "puzzle_boxes:ding_dong/kyrius_7",
+        "puzzle_boxes:ding_dong/kyrius_8"],
         "subtitle": "\"Ding Dong\""},
 
     "effect_undo": {"sounds": [
