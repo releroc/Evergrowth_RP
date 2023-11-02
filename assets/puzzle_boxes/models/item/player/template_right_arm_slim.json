@@ -1,14 +1,13 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "puzzle_boxes:item/misc/kyrkis",
-		"particle": "puzzle_boxes:item/misc/kyrkis"
+		"0": "#skin"
 	},
 	"elements": [
 		{
 			"name": "Right Arm",
-			"from": [12, 12, 6],
-			"to": [15, 24, 10],
+			"from": [7, -2, 6],
+			"to": [10, 10, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [11, 5, 11.75, 8], "texture": "#0"},
@@ -20,9 +19,23 @@
 			}
 		},
 		{
+			"name": "Right Arm inside",
+			"from": [10, 10, 10],
+			"to": [7, -2, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [12.75, 8, 13.5, 5], "texture": "#0"},
+				"east": {"uv": [11.75, 8, 12.75, 5], "texture": "#0"},
+				"south": {"uv": [11, 8, 11.75, 5], "texture": "#0"},
+				"west": {"uv": [10, 8, 11, 5], "texture": "#0"},
+				"up": {"uv": [11.75, 4, 12.5, 5], "texture": "#0"},
+				"down": {"uv": [11, 5, 11.75, 4], "texture": "#0"}
+			}
+		},
+		{
 			"name": "Right Arm Layer",
-			"from": [11.75, 11.75, 5.775],
-			"to": [15.25, 24.25, 10.275],
+			"from": [6.75, -2.25, 5.75],
+			"to": [10.25, 10.25, 10.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [11, 9, 11.75, 12], "texture": "#0"},
@@ -34,10 +47,10 @@
 			}
 		},
 		{
-			"name": "Right Arm Layer",
-			"from": [15.25, 24.25, 10.275],
-			"to": [11.75, 11.75, 5.775],
-			"rotation": {"angle": 0, "axis": "y", "origin": [11, 12, 12]},
+			"name": "Right Arm Layer inside",
+			"from": [10.25, 10.25, 10.25],
+			"to": [6.75, -2.25, 5.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [12.75, 12, 13.5, 9], "texture": "#0"},
 				"east": {"uv": [11.75, 12, 12.75, 9], "texture": "#0"},
@@ -48,10 +61,14 @@
 			}
 		}
 	],
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [90, 0, 0],
-			"translation": [-6, -2, -4]
+	"display": {},
+	"groups": [
+		{
+			"name": "LeftLeg",
+			"origin": [1.9, 12, 0],
+			"rotation": [-11, 0, 2],
+			"color": 0,
+			"children": [0, 1, 2, 3]
 		}
-	}
+	]
 }

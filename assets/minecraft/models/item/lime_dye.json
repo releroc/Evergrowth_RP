@@ -26,14 +26,7 @@
 
       {"predicate": {"custom_model_data":300}, "model": "puzzle_boxes:block/variations/misc/ball_statue_1"},
       {"predicate": {"custom_model_data":301}, "model": "puzzle_boxes:block/variations/misc/ball_statue_2"},
-      {"predicate": {"custom_model_data":302}, "model": "puzzle_boxes:block/variations/misc/ball_statue_2_ring"},
-
-      {"predicate": {"custom_model_data":400}, "model": "puzzle_boxes:item/misc/thanathor_arm_left"},
-      {"predicate": {"custom_model_data":401}, "model": "puzzle_boxes:item/misc/thanathor_arm_right"},
-      {"predicate": {"custom_model_data":402}, "model": "puzzle_boxes:item/misc/thanathor_head"},
-      {"predicate": {"custom_model_data":410}, "model": "puzzle_boxes:item/misc/kyrkis_arm_left"},
-      {"predicate": {"custom_model_data":411}, "model": "puzzle_boxes:item/misc/kyrkis_arm_right"},
-      {"predicate": {"custom_model_data":412}, "model": "puzzle_boxes:item/misc/kyrkis_head"}
+      {"predicate": {"custom_model_data":302}, "model": "puzzle_boxes:block/variations/misc/ball_statue_2_ring"}
 
       ]
   }

@@ -1,0 +1,26 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/red_dye"
+    } ,
+    "overrides": [
+      {"predicate": {"custom_model_data":100}, "model": "puzzle_boxes:item/player/kyrkis/body"},
+      {"predicate": {"custom_model_data":101}, "model": "puzzle_boxes:item/player/kyrkis/head"},
+      {"predicate": {"custom_model_data":102}, "model": "puzzle_boxes:item/player/kyrkis/left_leg"},
+      {"predicate": {"custom_model_data":103}, "model": "puzzle_boxes:item/player/kyrkis/right_leg"},
+      {"predicate": {"custom_model_data":104}, "model": "puzzle_boxes:item/player/kyrkis/left_arm_wide"},
+      {"predicate": {"custom_model_data":105}, "model": "puzzle_boxes:item/player/kyrkis/right_arm_wide"},
+      {"predicate": {"custom_model_data":106}, "model": "puzzle_boxes:item/player/kyrkis/left_arm_slim"},
+      {"predicate": {"custom_model_data":107}, "model": "puzzle_boxes:item/player/kyrkis/right_arm_slim"},
+
+      {"predicate": {"custom_model_data":110}, "model": "puzzle_boxes:item/player/thanathor/body"},
+      {"predicate": {"custom_model_data":111}, "model": "puzzle_boxes:item/player/thanathor/head"},
+      {"predicate": {"custom_model_data":112}, "model": "puzzle_boxes:item/player/thanathor/left_leg"},
+      {"predicate": {"custom_model_data":113}, "model": "puzzle_boxes:item/player/thanathor/right_leg"},
+      {"predicate": {"custom_model_data":114}, "model": "puzzle_boxes:item/player/thanathor/left_arm_wide"},
+      {"predicate": {"custom_model_data":115}, "model": "puzzle_boxes:item/player/thanathor/right_arm_wide"},
+      {"predicate": {"custom_model_data":116}, "model": "puzzle_boxes:item/player/thanathor/left_arm_slim"},
+      {"predicate": {"custom_model_data":117}, "model": "puzzle_boxes:item/player/thanathor/right_arm_slim"}
+
+      ]
+  }

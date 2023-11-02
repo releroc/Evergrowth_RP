@@ -1,0 +1,74 @@
+{
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "#skin"
+	},
+	"elements": [
+		{
+			"name": "Left Arm",
+			"from": [5, -2, 6],
+			"to": [9, 10, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [9, 13, 10, 16], "texture": "#0"},
+				"east": {"uv": [8, 13, 9, 16], "texture": "#0"},
+				"south": {"uv": [11, 13, 12, 16], "texture": "#0"},
+				"west": {"uv": [10, 13, 11, 16], "texture": "#0"},
+				"up": {"uv": [10, 13, 9, 12], "texture": "#0"},
+				"down": {"uv": [11, 12, 10, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Left Arm inside",
+			"from": [9, 10, 10],
+			"to": [5, -2, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [11, 16, 12, 13], "texture": "#0"},
+				"east": {"uv": [10, 16, 11, 13], "texture": "#0"},
+				"south": {"uv": [9, 16, 10, 13], "texture": "#0"},
+				"west": {"uv": [8, 16, 9, 13], "texture": "#0"},
+				"up": {"uv": [10, 12, 11, 13], "texture": "#0"},
+				"down": {"uv": [9, 13, 10, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Left Arm Layer",
+			"from": [4.75, -2.25, 5.75],
+			"to": [9.25, 10.25, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [13, 13, 14, 16], "texture": "#0"},
+				"east": {"uv": [12, 13, 13, 16], "texture": "#0"},
+				"south": {"uv": [15, 13, 16, 16], "texture": "#0"},
+				"west": {"uv": [14, 13, 15, 16], "texture": "#0"},
+				"up": {"uv": [14, 13, 13, 12], "texture": "#0"},
+				"down": {"uv": [15, 12, 14, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Left Arm Layer inside",
+			"from": [9.25, 10.25, 10.25],
+			"to": [4.75, -2.25, 5.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 11, 12]},
+			"faces": {
+				"north": {"uv": [15, 16, 16, 13], "texture": "#0"},
+				"east": {"uv": [14, 16, 15, 13], "texture": "#0"},
+				"south": {"uv": [13, 16, 14, 13], "texture": "#0"},
+				"west": {"uv": [12, 16, 13, 13], "texture": "#0"},
+				"up": {"uv": [14, 12, 15, 13], "texture": "#0"},
+				"down": {"uv": [13, 13, 14, 12], "texture": "#0"}
+			}
+		}
+	],
+	"display": {},
+	"groups": [
+		{
+			"name": "LeftLeg",
+			"origin": [1.9, 12, 0],
+			"rotation": [-11, 0, 2],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

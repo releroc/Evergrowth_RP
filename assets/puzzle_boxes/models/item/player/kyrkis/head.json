@@ -1,0 +1,6 @@
+{
+    "parent": "puzzle_boxes:item/player/template_head",
+    "textures": {
+      "skin": "puzzle_boxes:item/player/kyrkis"
+    }
+  }

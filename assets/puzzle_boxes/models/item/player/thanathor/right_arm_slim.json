@@ -1,0 +1,6 @@
+{
+    "parent": "puzzle_boxes:item/player/template_right_arm_slim",
+    "textures": {
+      "skin": "puzzle_boxes:item/player/thanathor"
+    }
+  }
