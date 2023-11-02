@@ -6,9 +6,9 @@
 	"elements": [
 		{
 			"name": "Head",
-			"from": [4, 8, 4],
-			"to": [12, 16, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"from": [4.2, 8, 4.2],
+			"to": [11.8, 15.6, 11.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.4, 8]},
 			"faces": {
 				"north": {"uv": [2, 2, 4, 4], "texture": "#0"},
 				"east": {"uv": [0, 2, 2, 4], "texture": "#0"},
@@ -20,9 +20,9 @@
 		},
 		{
 			"name": "Head inside",
-			"from": [12, 16, 12],
-			"to": [4, 8, 4],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"from": [11.8, 15.6, 11.8],
+			"to": [4.2, 8, 4.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.4, 8]},
 			"faces": {
 				"north": {"uv": [6, 4, 8, 2], "texture": "#0"},
 				"east": {"uv": [4, 4, 6, 2], "texture": "#0"},
@@ -34,9 +34,9 @@
 		},
 		{
 			"name": "Hat Layer",
-			"from": [3.5, 7.5, 3.5],
-			"to": [12.5, 16.5, 12.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"from": [3.725, 7.525, 3.725],
+			"to": [12.275, 16.075, 12.275],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.4, 8]},
 			"faces": {
 				"north": {"uv": [10, 2, 12, 4], "texture": "#0"},
 				"east": {"uv": [8, 2, 10, 4], "texture": "#0"},
@@ -48,9 +48,9 @@
 		},
 		{
 			"name": "Hat Layer inside",
-			"from": [12.5, 16.5, 12.5],
-			"to": [3.5, 7.5, 3.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"from": [12.275, 16.075, 12.275],
+			"to": [3.725, 7.525, 3.725],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.4, 8]},
 			"faces": {
 				"north": {"uv": [14, 4, 16, 2], "texture": "#0"},
 				"east": {"uv": [12, 4, 14, 2], "texture": "#0"},
