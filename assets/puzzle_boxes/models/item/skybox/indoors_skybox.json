@@ -1,0 +1,42 @@
+{
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "puzzle_boxes:item/skybox/dark_skybox/indoors_skybox",
+		"particle": "puzzle_boxes:item/skybox/dark_skybox/indoors_skybox"
+	},
+	"elements": [
+		{
+			"from": [16.5, 16, 32],
+			"to": [-0.5, -16, -15],
+			"faces": {
+				"north": {"uv": [10.5, 2, 12.5, 4], "texture": "#0"},
+				"east": {"uv": [14.15, 2, 16, 4], "texture": "#0"},
+				"south": {"uv": [0, 16, 8.5, 0], "texture": "#0"},
+				"west": {"uv": [8.5, 2, 10.5, 4], "texture": "#0"},
+				"up": {"uv": [10.5, 0, 12.5, 2], "texture": "#0"},
+				"down": {"uv": [8.5, 0, 10.5, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-0.5, 16, 32],
+			"to": [-15.5, -16, -9],
+			"faces": {
+				"north": {"uv": [10.5, 2, 12.5, 4], "texture": "#0"},
+				"east": {"uv": [12.5, 2, 14.5, 4], "texture": "#0"},
+				"south": {"uv": [10.5, 2, 12.5, 4], "texture": "#0"},
+				"up": {"uv": [10.5, 0, 12.5, 2], "texture": "#0"},
+				"down": {"uv": [8.5, 0, 10.5, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [16.5, 16, -15],
+			"to": [-0.5, 12, -16],
+			"faces": {
+				"east": {"uv": [12.5, 2, 12.5, 2], "texture": "#0"},
+				"west": {"uv": [8.5, 2, 8.5, 2], "texture": "#0"},
+				"up": {"uv": [10.5, 0, 10.5, 0], "texture": "#0"},
+				"down": {"uv": [8.5, 0, 8.5, 0], "texture": "#0"}
+			}
+		}
+	]
+}
