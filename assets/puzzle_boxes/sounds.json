@@ -56,6 +56,11 @@
         "puzzle_boxes:effect_magnet"],
         "subtitle": "Magnet beams"},
 
+    "effect_bird_taking_off": {"sounds": [
+        "puzzle_boxes:effect_bird_taking_off"],
+        "subtitle": "Bird Takes Off"},
+
+
 
     "music_spring_view": {"sounds": [
         "puzzle_boxes:music/spring/view"]},

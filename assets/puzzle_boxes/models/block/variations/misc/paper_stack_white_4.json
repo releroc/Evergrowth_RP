@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "puzzle_boxes:block/variations/building_blocks/misc/papers_1",
