@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/chainmail_boots"
+  } ,
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "puzzle_boxes:item/misc/hint_lever_off"},
+    {"predicate": {"custom_model_data":2}, "model": "puzzle_boxes:item/misc/hint_lever_middle"},
+    {"predicate": {"custom_model_data":3}, "model": "puzzle_boxes:item/misc/hint_lever_on"}
+    ]
+}

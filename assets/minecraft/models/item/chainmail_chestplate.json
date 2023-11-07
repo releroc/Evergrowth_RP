@@ -1,21 +1,10 @@
 {
-	"parent": "item/custom/lit",
+	"parent": "minecraft:item/generated",
 	"textures": {
-		"0": "puzzle_boxes:item/misc/stats_tab",
-		"particle": "puzzle_boxes:item/misc/stats_tab"
-	},
-	"elements": [
-		{
-			"from": [0, 0, 8],
-			"to": [16, 16, 8],
-			"faces": {
-				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
-			}
-		}
-	],
-	"display": {
-		"gui": {
-			"translation": [0, 15, 0]
-		}
-	}
-}
+	  "layer0": "minecraft:item/chainmail_chestplate"
+	} ,
+	"overrides": [
+	  {"predicate": {"custom_model_data":1}, "model": "puzzle_boxes:block/variations/misc/empty"},
+	  {"predicate": {"custom_model_data":2}, "model": "puzzle_boxes:item/misc/stats_tab"}
+	  ]
+  }

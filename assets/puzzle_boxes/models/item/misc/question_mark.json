@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "puzzle_boxes:item/misc/question_mark"
+    }
+  }

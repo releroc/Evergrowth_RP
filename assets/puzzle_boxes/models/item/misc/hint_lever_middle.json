@@ -1,0 +1,21 @@
+{
+	"parent": "item/custom/lit",
+	"textures": {
+		"0": "puzzle_boxes:item/misc/hint_lever_middle",
+		"particle": "puzzle_boxes:item/misc/hint_lever_middle"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"translation": [-4, -1, 0]
+		}
+	}
+}
