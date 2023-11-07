@@ -1,6 +1,11 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "puzzle_boxes:item/misc/question_mark"
-    }
-  }
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "puzzle_boxes:item/misc/question_mark"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 8, 0]
+		}
+	}
+}
