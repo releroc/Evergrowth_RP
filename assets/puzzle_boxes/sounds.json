@@ -1,9 +1,4 @@
 {
-    "background_garden_1": {"sounds": [
-        "puzzle_boxes:background_garden_1"],
-        "subtitle": ""},
-
-
     "effect_puzzle_complete": {"sounds": [
         "puzzle_boxes:effect_door_open"],
         "subtitle": "\"Ding Dong\""},
@@ -80,8 +75,8 @@
     "music_autumn_timber_and_vines": {"sounds": [
         "puzzle_boxes:music/autumn/timber_and_vines"]},
     
-    "music_autumn_autumnal_meadows": {"sounds": [
-        "puzzle_boxes:music/autumn/autumnal_meadows"]},
+    "music_autumn_hazy_fireplace": {"sounds": [
+        "puzzle_boxes:music/autumn/hazy_fireplace"]},
     
     "music_winter_bells_and_angels": {"sounds": [
         "puzzle_boxes:music/winter/bells_and_angels"]},
