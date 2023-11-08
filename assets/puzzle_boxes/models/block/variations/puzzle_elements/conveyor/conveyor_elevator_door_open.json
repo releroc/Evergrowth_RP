@@ -2,6 +2,7 @@
 	"textures": {
 		"0": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_frame_1",
 		"1": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_1_new",
+		"2": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_door",
 		"particle": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_frame_1"
 	},
 	"elements": [
@@ -2168,6 +2169,34 @@
 				"up": {"uv": [15, 4, 12, 5], "texture": "#1"},
 				"down": {"uv": [12, 6, 15, 7], "rotation": 180, "texture": "#1"}
 			}
+		},
+		{
+			"from": [-0.525, 8, -0.025],
+			"to": [0.475, 16.025, 16.025],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "z", "origin": [0.475, 12.0125, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 8.025, 1], "rotation": 270, "texture": "#2"},
+				"east": {"uv": [0, 0, 8.025, 16], "rotation": 90, "texture": "#2"},
+				"south": {"uv": [0, 15, 8.025, 16], "rotation": 90, "texture": "#2"},
+				"west": {"uv": [0, 16, 8.025, 0], "rotation": 90, "texture": "#2"},
+				"up": {"uv": [0, 16, 1, 0], "rotation": 180, "texture": "#2"},
+				"down": {"uv": [7, 0, 8, 16], "rotation": 180, "texture": "#2"}
+			}
+		},
+		{
+			"from": [15.525, 8, -0.025],
+			"to": [16.525, 16.025, 16.025],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "z", "origin": [16.525, 12.0125, 8]},
+			"faces": {
+				"north": {"uv": [7.975, 0, 16, 1], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [7.975, 16, 16, 0], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [7.975, 15, 16, 16], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [7.975, 0, 16, 16], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [14.975, 0, 15.975, 16], "texture": "#2"},
+				"down": {"uv": [7.975, 16, 8.975, 0], "texture": "#2"}
+			}
 		}
 	],
 	"display": {
@@ -2443,6 +2472,8 @@
 					"children": [150, 151, 152, 153, 154, 155]
 				}
 			]
-		}
+		},
+		156,
+		157
 	]
 }

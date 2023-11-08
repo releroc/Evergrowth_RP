@@ -8,11 +8,20 @@
       "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_1_new",
       "y": -90
     },
-    "facing=east,half=top,open=false": {
-      "model": "x"
+    "facing=east,half=top,open=false,powered=false": {
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_door_closed",
+      "y": 90
     },
-    "facing=east,half=top,open=true": {
-      "model": "x",
+    "facing=east,half=top,open=true,powered=false": {
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_door_closed",
+      "y": 90
+    },
+    "facing=east,half=top,open=false,powered=true": {
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_door_open",
+      "y": 90
+    },
+    "facing=east,half=top,open=true,powered=true": {
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_door_open",
       "y": 90
     },
     "facing=north,half=bottom,open=false,powered=false": {
@@ -37,12 +46,17 @@
       "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_1_new",
       "y": 0
     },
-    "facing=south,half=top,open=false": {
-      "model": "x"
+    "facing=south,half=top,open=false,powered=false": {
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_door_closed"
     },
-    "facing=south,half=top,open=true": {
-      "model": "x",
-      "y": 180
+    "facing=south,half=top,open=true,powered=false": {
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_door_closed"
+    },
+    "facing=south,half=top,open=false,powered=true": {
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_door_open"
+    },
+    "facing=south,half=top,open=true,powered=true": {
+      "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_elevator_door_open"
     },
     "facing=west,half=bottom,open=false,powered=false": {
       "model": "puzzle_boxes:block/variations/puzzle_elements/conveyor/conveyor_middle_1_new",
