@@ -31,7 +31,8 @@
 
       {"predicate": {"custom_model_data":400}, "model": "puzzle_boxes:item/misc/question_mark"},
 
-      {"predicate": {"custom_model_data":500}, "model": "puzzle_boxes:item/misc/titlecard"}
+      {"predicate": {"custom_model_data":500}, "model": "puzzle_boxes:item/misc/titlecard"},
+      {"predicate": {"custom_model_data":501}, "model": "puzzle_boxes:item/misc/advancement"}
 
       ]
   }
