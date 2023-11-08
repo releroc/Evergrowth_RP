@@ -1,8 +1,8 @@
 {
 	"parent": "item/custom/lit",
 	"textures": {
-		"0": "puzzle_boxes:item/misc/advancment",
-		"particle": "puzzle_boxes:item/misc/advancment"
+		"0": "puzzle_boxes:item/misc/advancement",
+		"particle": "puzzle_boxes:item/misc/advancement"
 	},
 	"elements": [
 		{
@@ -12,5 +12,10 @@
 				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
 			}
 		}
-	]
+	],
+	"display": {
+		"gui": {
+			"scale": [1.75, 1.75, 1.75]
+		}
+	}
 }
