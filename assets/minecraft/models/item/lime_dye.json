@@ -29,7 +29,9 @@
       {"predicate": {"custom_model_data":301}, "model": "puzzle_boxes:block/variations/misc/ball_statue_2"},
       {"predicate": {"custom_model_data":302}, "model": "puzzle_boxes:block/variations/misc/ball_statue_2_ring"},
 
-      {"predicate": {"custom_model_data":400}, "model": "puzzle_boxes:item/misc/question_mark"}
+      {"predicate": {"custom_model_data":400}, "model": "puzzle_boxes:item/misc/question_mark"},
+
+      {"predicate": {"custom_model_data":500}, "model": "puzzle_boxes:item/misc/titlecard"}
 
       ]
   }
