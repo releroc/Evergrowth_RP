@@ -2,9 +2,9 @@
    "providers":[
       {
          "type":"bitmap",
-         "file":"puzzle_boxes:font/evergrowth_1.png",
-         "ascent":50,
-         "height":100,
+         "file":"puzzle_boxes:font/transition.png",
+         "ascent":128,
+         "height":256,
          "chars":[
             "A"
          ]
