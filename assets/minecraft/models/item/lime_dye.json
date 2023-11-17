@@ -6,11 +6,7 @@
     "overrides": [
       {"predicate": {"custom_model_data":1  }, "model": "puzzle_boxes:item/skybox/skybox"},
       {"predicate": {"custom_model_data":7  }, "model": "puzzle_boxes:item/skybox/skybox_test_9"},
-      {"predicate": {"custom_model_data":8  }, "model": "puzzle_boxes:item/skybox/black_hole_skybox"},
       {"predicate": {"custom_model_data":9  }, "model": "puzzle_boxes:item/misc/black_wall"},
-      {"predicate": {"custom_model_data":10 }, "model": "puzzle_boxes:item/misc/test_thing_1"},
-      {"predicate": {"custom_model_data":11 }, "model": "puzzle_boxes:item/misc/test_thing_2"},
-      {"predicate": {"custom_model_data":12 }, "model": "puzzle_boxes:item/misc/test_thing_3"},
       {"predicate": {"custom_model_data":13 }, "model": "puzzle_boxes:item/skybox/joke_skybox"},
       {"predicate": {"custom_model_data":14 }, "model": "puzzle_boxes:item/skybox/dark_skybox"},
       {"predicate": {"custom_model_data":15 }, "model": "puzzle_boxes:item/skybox/indoors_skybox"},

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_3"
+    },
+    "facing=north": {
+      "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_3_cross"
+    },
+    "facing=south": {
+      "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_4"
+    },
+    "facing=west": {
+      "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_4_cross"
+    }
+  }
+}
