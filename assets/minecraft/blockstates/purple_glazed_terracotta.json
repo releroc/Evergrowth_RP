@@ -1,16 +1,20 @@
 {
   "variants": {
     "facing=east": {
-      "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_1"
+      "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_1",
+      "y": -180
     },
     "facing=north": {
-      "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_1_cross"
+      "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_1_cross",
+      "y": -180
     },
     "facing=south": {
-      "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_2"
+      "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_2",
+      "y": -180
     },
     "facing=west": {
-      "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_2_cross"
+      "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_2_cross",
+      "y": -180
     }
   }
 }
