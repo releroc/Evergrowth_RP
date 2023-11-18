@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": {
+      "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_1",
+      "y":180
+    }
+  }
+}
