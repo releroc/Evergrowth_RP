@@ -1,7 +1,8 @@
 {
   "variants": {
     "": {
-      "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_5_cross"
+      "model": "puzzle_boxes:block/variations/puzzle_elements/box/metal_box_5_cross",
+      "y":180
     }
   }
 }
