@@ -1,0 +1,6 @@
+{
+    "parent": "puzzle_boxes:item/player/template_left_arm_wide",
+    "textures": {
+      "skin": "puzzle_boxes:item/player/raasdonder"
+    }
+  }

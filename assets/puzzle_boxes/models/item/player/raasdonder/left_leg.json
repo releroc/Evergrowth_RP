@@ -1,0 +1,6 @@
+{
+    "parent": "puzzle_boxes:item/player/template_left_leg",
+    "textures": {
+      "skin": "puzzle_boxes:item/player/raasdonder"
+    }
+  }

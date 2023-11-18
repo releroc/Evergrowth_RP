@@ -1,0 +1,6 @@
+{
+    "parent": "puzzle_boxes:item/player/template_body",
+    "textures": {
+      "skin": "puzzle_boxes:item/player/bartthebart"
+    }
+  }

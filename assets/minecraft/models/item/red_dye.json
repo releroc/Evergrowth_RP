@@ -20,7 +20,43 @@
       {"predicate": {"custom_model_data":114}, "model": "puzzle_boxes:item/player/thanathor/left_arm_wide"},
       {"predicate": {"custom_model_data":115}, "model": "puzzle_boxes:item/player/thanathor/right_arm_wide"},
       {"predicate": {"custom_model_data":116}, "model": "puzzle_boxes:item/player/thanathor/left_arm_slim"},
-      {"predicate": {"custom_model_data":117}, "model": "puzzle_boxes:item/player/thanathor/right_arm_slim"}
+      {"predicate": {"custom_model_data":117}, "model": "puzzle_boxes:item/player/thanathor/right_arm_slim"},
+
+      {"predicate": {"custom_model_data":120}, "model": "puzzle_boxes:item/player/bartthebart/body"},
+      {"predicate": {"custom_model_data":121}, "model": "puzzle_boxes:item/player/bartthebart/head"},
+      {"predicate": {"custom_model_data":122}, "model": "puzzle_boxes:item/player/bartthebart/left_leg"},
+      {"predicate": {"custom_model_data":123}, "model": "puzzle_boxes:item/player/bartthebart/right_leg"},
+      {"predicate": {"custom_model_data":124}, "model": "puzzle_boxes:item/player/bartthebart/left_arm_wide"},
+      {"predicate": {"custom_model_data":125}, "model": "puzzle_boxes:item/player/bartthebart/right_arm_wide"},
+      {"predicate": {"custom_model_data":126}, "model": "puzzle_boxes:item/player/bartthebart/left_arm_slim"},
+      {"predicate": {"custom_model_data":127}, "model": "puzzle_boxes:item/player/bartthebart/right_arm_slim"},
+
+      {"predicate": {"custom_model_data":130}, "model": "puzzle_boxes:item/player/raasdonder/body"},
+      {"predicate": {"custom_model_data":131}, "model": "puzzle_boxes:item/player/raasdonder/head"},
+      {"predicate": {"custom_model_data":132}, "model": "puzzle_boxes:item/player/raasdonder/left_leg"},
+      {"predicate": {"custom_model_data":133}, "model": "puzzle_boxes:item/player/raasdonder/right_leg"},
+      {"predicate": {"custom_model_data":134}, "model": "puzzle_boxes:item/player/raasdonder/left_arm_wide"},
+      {"predicate": {"custom_model_data":135}, "model": "puzzle_boxes:item/player/raasdonder/right_arm_wide"},
+      {"predicate": {"custom_model_data":136}, "model": "puzzle_boxes:item/player/raasdonder/left_arm_slim"},
+      {"predicate": {"custom_model_data":137}, "model": "puzzle_boxes:item/player/raasdonder/right_arm_slim"},
+
+      {"predicate": {"custom_model_data":140}, "model": "puzzle_boxes:item/player/toffeemax/body"},
+      {"predicate": {"custom_model_data":141}, "model": "puzzle_boxes:item/player/toffeemax/head"},
+      {"predicate": {"custom_model_data":142}, "model": "puzzle_boxes:item/player/toffeemax/left_leg"},
+      {"predicate": {"custom_model_data":143}, "model": "puzzle_boxes:item/player/toffeemax/right_leg"},
+      {"predicate": {"custom_model_data":144}, "model": "puzzle_boxes:item/player/toffeemax/left_arm_wide"},
+      {"predicate": {"custom_model_data":145}, "model": "puzzle_boxes:item/player/toffeemax/right_arm_wide"},
+      {"predicate": {"custom_model_data":146}, "model": "puzzle_boxes:item/player/toffeemax/left_arm_slim"},
+      {"predicate": {"custom_model_data":147}, "model": "puzzle_boxes:item/player/toffeemax/right_arm_slim"},
+
+      {"predicate": {"custom_model_data":150}, "model": "puzzle_boxes:item/player/miraku_memo/body"},
+      {"predicate": {"custom_model_data":151}, "model": "puzzle_boxes:item/player/miraku_memo/head"},
+      {"predicate": {"custom_model_data":152}, "model": "puzzle_boxes:item/player/miraku_memo/left_leg"},
+      {"predicate": {"custom_model_data":153}, "model": "puzzle_boxes:item/player/miraku_memo/right_leg"},
+      {"predicate": {"custom_model_data":154}, "model": "puzzle_boxes:item/player/miraku_memo/left_arm_wide"},
+      {"predicate": {"custom_model_data":155}, "model": "puzzle_boxes:item/player/miraku_memo/right_arm_wide"},
+      {"predicate": {"custom_model_data":156}, "model": "puzzle_boxes:item/player/miraku_memo/left_arm_slim"},
+      {"predicate": {"custom_model_data":157}, "model": "puzzle_boxes:item/player/miraku_memo/right_arm_slim"}
 
       ]
   }
