@@ -1,0 +1,23 @@
+
+{
+   "providers":[
+      {
+         "type":"bitmap",
+         "file":"puzzle_boxes:font/redacted.png",
+         "ascent":8,
+         "height":8,
+         "chars":[
+            "ABCDEFGHIJKLMNOP",
+            "QRSTUVWXYZabcdef",
+            "ghijklmnopqrstuv",
+            "wxyz_0123456789 "
+        ]
+      },
+      {
+         "type": "space",
+         "advances":{
+            ".":-1
+         }
+      }
+   ]
+}
