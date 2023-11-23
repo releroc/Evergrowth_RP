@@ -20,10 +20,10 @@ jobs:
       with:
         files: assets/ pack.mcmeta pack.png
         recursive: false
-        dest: Puzzle_Boxes_RP-${{ steps.previoustag.outputs.tag }}.zip
+        dest: Evergrowth_RP-${{ steps.previoustag.outputs.tag }}.zip
     - name: Create Release
       uses: ncipollo/release-action@v1
       with: 
-       artifacts: "Puzzle_Boxes_RP-${{ steps.previoustag.outputs.tag }}.zip"
+       artifacts: "Evergrowth_RP-${{ steps.previoustag.outputs.tag }}.zip"
        tag: ${{ steps.previoustag.outputs.tag }}
     
