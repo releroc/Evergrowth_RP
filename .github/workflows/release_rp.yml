@@ -20,7 +20,7 @@ jobs:
       with:
         files: assets/ pack.mcmeta pack.png
         recursive: false
-        dest: Evergrowth_RP-${{ steps.previoustag.outputs.tag }}.zip
+        dest: Evergrowth_RP.zip
     - name: Create Release
       uses: ncipollo/release-action@v1
       with: 
