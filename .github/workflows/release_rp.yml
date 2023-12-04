@@ -24,6 +24,6 @@ jobs:
     - name: Create Release
       uses: ncipollo/release-action@v1
       with: 
-       artifacts: "Evergrowth_RP-${{ steps.previoustag.outputs.tag }}.zip"
+       artifacts: "Evergrowth_RP.zip"
        tag: ${{ steps.previoustag.outputs.tag }}
     
