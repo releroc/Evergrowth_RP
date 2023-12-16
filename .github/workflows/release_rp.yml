@@ -11,10 +11,16 @@ jobs:
       uses: anothrNick/github-tag-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        REPO_OWNER: kyrkis
+        REPO_OWNER: Gamemode4Dev
     - name: Get Previous tag
       id: previoustag
       uses: "WyriHaximus/github-action-get-previous-tag@v1"
+    - name: Update pack.mcmeta version field
+      uses: jossef/action-set-json-field@v2.1
+      with:
+        file: assets/pack.mcmeta
+        field: version
+        value: ${{ steps.previoustag.outputs.tag }}
     - name: Zip Folder
       uses: vimtor/action-zip@v1
       with:
