@@ -15,4 +15,6 @@
             }
         ]
     }
+    "isalpha" : true,
+    "version" : "0.67.0"
 }
