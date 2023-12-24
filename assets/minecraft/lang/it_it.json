@@ -9,9 +9,6 @@
   "effect.minecraft.darkness": "",
   "effect.minecraft.slowness": "",
   "effect.minecraft.resistance": "",
-  "chat.type.advancement.challenge": "%s has completed every puzzle and received %s",
-  "chat.type.advancement.goal": "%s discovered %s",
-  "chat.type.advancement.task": "%s discovered %s",
 
   "gm4_pb.resourcepack.sign": ""
 }
